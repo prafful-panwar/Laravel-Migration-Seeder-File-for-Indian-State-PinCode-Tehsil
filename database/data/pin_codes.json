@@ -40,12 +40,12 @@
         "district_id": "98"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110009",
         "district_id": "431"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110010",
         "district_id": "555"
     },
@@ -75,12 +75,12 @@
         "district_id": "616"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110016",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "New Delhi",
         "pin_code": "110017",
         "district_id": "549"
     },
@@ -100,17 +100,17 @@
         "district_id": "549"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110021",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110022",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110023",
         "district_id": "555"
     },
@@ -120,7 +120,7 @@
         "district_id": "549"
     },
     {
-        "name": "NA",
+        "name": "New Delhi",
         "pin_code": "110025",
         "district_id": "549"
     },
@@ -140,22 +140,22 @@
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "New Delhi",
         "pin_code": "110029",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110030",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110031",
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110032",
         "district_id": "427"
     },
@@ -180,12 +180,12 @@
         "district_id": "431"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110037",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110038",
         "district_id": "555"
     },
@@ -230,7 +230,7 @@
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110047",
         "district_id": "555"
     },
@@ -245,7 +245,7 @@
         "district_id": "549"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110051",
         "district_id": "165"
     },
@@ -255,7 +255,7 @@
         "district_id": "431"
     },
     {
-        "name": "NA",
+        "name": "East Delhi",
         "pin_code": "110053",
         "district_id": "427"
     },
@@ -275,7 +275,7 @@
         "district_id": "431"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110057",
         "district_id": "555"
     },
@@ -295,7 +295,7 @@
         "district_id": "98"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110061",
         "district_id": "555"
     },
@@ -320,17 +320,17 @@
         "district_id": "549"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110066",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110067",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110068",
         "district_id": "555"
     },
@@ -340,7 +340,7 @@
         "district_id": "98"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110070",
         "district_id": "555"
     },
@@ -350,17 +350,17 @@
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110072",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "New Delhi",
         "pin_code": "110073",
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "South West Delhi",
         "pin_code": "110074",
         "district_id": "555"
     },
@@ -380,7 +380,7 @@
         "district_id": "555"
     },
     {
-        "name": "NA",
+        "name": "New Delhi",
         "pin_code": "110078",
         "district_id": "616"
     },
@@ -410,7 +410,7 @@
         "district_id": "425"
     },
     {
-        "name": "NA",
+        "name": "North West Delhi",
         "pin_code": "110085",
         "district_id": "425"
     },
@@ -430,7 +430,7 @@
         "district_id": "431"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110089",
         "district_id": "431"
     },
@@ -440,37 +440,37 @@
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110091",
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110092",
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110093",
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi North East",
         "pin_code": "110094",
         "district_id": "427"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110095",
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110096",
         "district_id": "165"
     },
     {
-        "name": "NA",
+        "name": "Delhi",
         "pin_code": "110097",
         "district_id": "555"
     },
@@ -570,7 +570,7 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Dlf Qe",
         "pin_code": "122002",
         "district_id": "214"
     },
@@ -580,7 +580,7 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Narsinghpur",
         "pin_code": "122004",
         "district_id": "214"
     },
@@ -590,7 +590,7 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Railway Road",
         "pin_code": "122006",
         "district_id": "214"
     },
@@ -615,7 +615,7 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "122011",
         "district_id": "214"
     },
@@ -625,22 +625,22 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Industrial Complex Dundahera",
         "pin_code": "122016",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Palam Vihar",
         "pin_code": "122017",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "122018",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Nsg Camp Manesar",
         "pin_code": "122051",
         "district_id": "214"
     },
@@ -660,12 +660,12 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Sohna",
         "pin_code": "122103",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Ferozepur Jhirka",
         "pin_code": "122104",
         "district_id": "214"
     },
@@ -675,12 +675,12 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Nuh",
         "pin_code": "122107",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Nagina",
         "pin_code": "122108",
         "district_id": "214"
     },
@@ -690,17 +690,17 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Nanukalan",
         "pin_code": "122414",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Khalilpur",
         "pin_code": "122502",
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Pataudi",
         "pin_code": "122503",
         "district_id": "214"
     },
@@ -710,7 +710,7 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Garhi Harsaru",
         "pin_code": "122505",
         "district_id": "214"
     },
@@ -720,7 +720,7 @@
         "district_id": "214"
     },
     {
-        "name": "NA",
+        "name": "Punhana",
         "pin_code": "122508",
         "district_id": "214"
     },
@@ -1140,7 +1140,7 @@
         "district_id": "536"
     },
     {
-        "name": "NA",
+        "name": "Sirsa",
         "pin_code": "125101",
         "district_id": "536"
     },
@@ -1395,17 +1395,17 @@
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131022",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131023",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131024",
         "district_id": "545"
     },
@@ -1420,57 +1420,57 @@
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Sonipat",
         "pin_code": "131029",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Sonipat",
         "pin_code": "131039",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ganaur",
         "pin_code": "131101",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131102",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131103",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Gohana",
         "pin_code": "131301",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Gohana",
         "pin_code": "131302",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Sonipat",
         "pin_code": "131304",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Gohana",
         "pin_code": "131305",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131306",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Kharkhoda",
         "pin_code": "131402",
         "district_id": "545"
     },
@@ -1480,12 +1480,12 @@
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131408",
         "district_id": "545"
     },
     {
-        "name": "NA",
+        "name": "Ambala  HQ",
         "pin_code": "131409",
         "district_id": "545"
     },
@@ -1630,7 +1630,7 @@
         "district_id": "291"
     },
     {
-        "name": "NA",
+        "name": "Ambala",
         "pin_code": "133001",
         "district_id": "14"
     },
@@ -1640,7 +1640,7 @@
         "district_id": "14"
     },
     {
-        "name": "NA",
+        "name": "Ambala",
         "pin_code": "133005",
         "district_id": "14"
     },
@@ -1725,7 +1725,7 @@
         "district_id": "14"
     },
     {
-        "name": "NA",
+        "name": "Ambala",
         "pin_code": "134007",
         "district_id": "14"
     },
@@ -2000,7 +2000,7 @@
         "district_id": "491"
     },
     {
-        "name": "NA",
+        "name": "Rupnagar",
         "pin_code": "140103",
         "district_id": "383"
     },
@@ -2170,7 +2170,7 @@
         "district_id": "383"
     },
     {
-        "name": "NA",
+        "name": "Rajpura",
         "pin_code": "140601",
         "district_id": "447"
     },
@@ -2265,12 +2265,12 @@
         "district_id": "352"
     },
     {
-        "name": "NA",
+        "name": "Ludhiana",
         "pin_code": "141015",
         "district_id": "352"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh HQ",
         "pin_code": "141016",
         "district_id": "352"
     },
@@ -2735,7 +2735,7 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar -I",
         "pin_code": "143009",
         "district_id": "18"
     },
@@ -2745,12 +2745,12 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Raja Sansi",
         "pin_code": "143101",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Ajnala",
         "pin_code": "143102",
         "district_id": "18"
     },
@@ -2760,7 +2760,7 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar -I",
         "pin_code": "143105",
         "district_id": "18"
     },
@@ -2775,17 +2775,17 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Chogawan",
         "pin_code": "143109",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Khilchian",
         "pin_code": "143111",
         "district_id": "566"
     },
     {
-        "name": "NA",
+        "name": "Rayya",
         "pin_code": "143112",
         "district_id": "18"
     },
@@ -2795,7 +2795,7 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "TARN-TARAN",
         "pin_code": "143114",
         "district_id": "18"
     },
@@ -2805,12 +2805,12 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar",
         "pin_code": "143116",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar",
         "pin_code": "143117",
         "district_id": "18"
     },
@@ -2820,12 +2820,12 @@
         "district_id": "566"
     },
     {
-        "name": "NA",
+        "name": "Baba Bakala",
         "pin_code": "143119",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar",
         "pin_code": "143149",
         "district_id": "18"
     },
@@ -2835,7 +2835,7 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Baba Bakala",
         "pin_code": "143202",
         "district_id": "18"
     },
@@ -2845,7 +2845,7 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar",
         "pin_code": "143204",
         "district_id": "18"
     },
@@ -2860,17 +2860,17 @@
         "district_id": "566"
     },
     {
-        "name": "NA",
+        "name": "TARN-TARAN",
         "pin_code": "143302",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "TARN-TARAN",
         "pin_code": "143303",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Patti",
         "pin_code": "143304",
         "district_id": "566"
     },
@@ -2880,17 +2880,17 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh Region",
         "pin_code": "143401",
         "district_id": "566"
     },
     {
-        "name": "NA",
+        "name": "TARN-TARAN",
         "pin_code": "143402",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Kang",
         "pin_code": "143406",
         "district_id": "566"
     },
@@ -2900,12 +2900,12 @@
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Amritsar",
         "pin_code": "143408",
         "district_id": "566"
     },
     {
-        "name": "NA",
+        "name": "Nausher Panvan",
         "pin_code": "143409",
         "district_id": "18"
     },
@@ -2950,7 +2950,7 @@
         "district_id": "566"
     },
     {
-        "name": "NA",
+        "name": "TARN-TARAN",
         "pin_code": "143422",
         "district_id": "566"
     },
@@ -3090,12 +3090,12 @@
         "district_id": "213"
     },
     {
-        "name": "NA",
+        "name": "Amritsar- II",
         "pin_code": "143601",
         "district_id": "18"
     },
     {
-        "name": "NA",
+        "name": "Dera Baba Nanak",
         "pin_code": "143602",
         "district_id": "213"
     },
@@ -3115,7 +3115,7 @@
         "district_id": "213"
     },
     {
-        "name": "NA",
+        "name": "Ajnala",
         "pin_code": "143606",
         "district_id": "18"
     },
@@ -3340,7 +3340,7 @@
         "district_id": "244"
     },
     {
-        "name": "NA",
+        "name": "Hoshiarpur",
         "pin_code": "144202",
         "district_id": "231"
     },
@@ -3675,7 +3675,7 @@
         "district_id": "414"
     },
     {
-        "name": "NA",
+        "name": "Hoshiarpur",
         "pin_code": "144527",
         "district_id": "231"
     },
@@ -3685,7 +3685,7 @@
         "district_id": "231"
     },
     {
-        "name": "NA",
+        "name": "Hoshiarpur",
         "pin_code": "144529",
         "district_id": "231"
     },
@@ -3695,7 +3695,7 @@
         "district_id": "231"
     },
     {
-        "name": "NA",
+        "name": "Hoshiarpur",
         "pin_code": "144531",
         "district_id": "231"
     },
@@ -3830,7 +3830,7 @@
         "district_id": "284"
     },
     {
-        "name": "NA",
+        "name": "Jalandhar -II",
         "pin_code": "144805",
         "district_id": "244"
     },
@@ -3855,7 +3855,7 @@
         "district_id": "213"
     },
     {
-        "name": "NA",
+        "name": "Pathankot",
         "pin_code": "145023",
         "district_id": "213"
     },
@@ -4195,12 +4195,12 @@
         "district_id": "56"
     },
     {
-        "name": "NA",
+        "name": "Barnala",
         "pin_code": "148102",
         "district_id": "504"
     },
     {
-        "name": "NA",
+        "name": "Barnala",
         "pin_code": "148103",
         "district_id": "56"
     },
@@ -4320,7 +4320,7 @@
         "district_id": "181"
     },
     {
-        "name": "NA",
+        "name": "Jaitu",
         "pin_code": "151205",
         "district_id": "181"
     },
@@ -4585,7 +4585,7 @@
         "district_id": "106"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh",
         "pin_code": "160002",
         "district_id": "106"
     },
@@ -4655,7 +4655,7 @@
         "district_id": "106"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh HQ",
         "pin_code": "160025",
         "district_id": "106"
     },
@@ -4665,7 +4665,7 @@
         "district_id": "106"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh",
         "pin_code": "160036",
         "district_id": "106"
     },
@@ -4695,17 +4695,17 @@
         "district_id": "493"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh",
         "pin_code": "160101",
         "district_id": "106"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh",
         "pin_code": "160102",
         "district_id": "106"
     },
     {
-        "name": "NA",
+        "name": "Chandigarh HQ",
         "pin_code": "160103",
         "district_id": "383"
     },
@@ -4790,7 +4790,7 @@
         "district_id": "522"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "171102",
         "district_id": "541"
     },
@@ -5185,12 +5185,12 @@
         "district_id": "534"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173201",
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173202",
         "district_id": "541"
     },
@@ -5205,7 +5205,7 @@
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173206",
         "district_id": "541"
     },
@@ -5235,7 +5235,7 @@
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Solan(T)",
         "pin_code": "173212",
         "district_id": "541"
     },
@@ -5265,7 +5265,7 @@
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Kasauli",
         "pin_code": "173220",
         "district_id": "541"
     },
@@ -5285,22 +5285,22 @@
         "district_id": "534"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173225",
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173229",
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173230",
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "173233",
         "district_id": "541"
     },
@@ -5430,17 +5430,17 @@
         "district_id": "83"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "174036",
         "district_id": "83"
     },
     {
-        "name": "NA",
+        "name": "Shimla HQ",
         "pin_code": "174101",
         "district_id": "541"
     },
     {
-        "name": "NA",
+        "name": "Ramsheher",
         "pin_code": "174102",
         "district_id": "541"
     },
@@ -6350,7 +6350,7 @@
         "district_id": "99"
     },
     {
-        "name": "NA",
+        "name": "Shahpur(T)",
         "pin_code": "176208",
         "district_id": "277"
     },
@@ -6690,7 +6690,7 @@
         "district_id": "277"
     },
     {
-        "name": "NA",
+        "name": "Dehra",
         "pin_code": "177103",
         "district_id": "277"
     },
@@ -6700,7 +6700,7 @@
         "district_id": "277"
     },
     {
-        "name": "NA",
+        "name": "Dehra",
         "pin_code": "177105",
         "district_id": "277"
     },
@@ -6940,7 +6940,7 @@
         "district_id": "250"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "180019",
         "district_id": "250"
     },
@@ -6955,7 +6955,7 @@
         "district_id": "250"
     },
     {
-        "name": "NA",
+        "name": "Jammu",
         "pin_code": "181102",
         "district_id": "250"
     },
@@ -6965,7 +6965,7 @@
         "district_id": "250"
     },
     {
-        "name": "NA",
+        "name": "Jammu",
         "pin_code": "181121",
         "district_id": "250"
     },
@@ -7230,7 +7230,7 @@
         "district_id": "294"
     },
     {
-        "name": "NA",
+        "name": "Kathua",
         "pin_code": "184102",
         "district_id": "294"
     },
@@ -7465,7 +7465,7 @@
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Noushera",
         "pin_code": "190011",
         "district_id": "557"
     },
@@ -7485,12 +7485,12 @@
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Parimpora",
         "pin_code": "190017",
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "190018",
         "district_id": "557"
     },
@@ -7500,12 +7500,12 @@
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "190020",
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "190021",
         "district_id": "91"
     },
@@ -7525,7 +7525,7 @@
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar",
         "pin_code": "191101",
         "district_id": "557"
     },
@@ -7550,7 +7550,7 @@
         "district_id": "91"
     },
     {
-        "name": "NA",
+        "name": "Chadoora",
         "pin_code": "191113",
         "district_id": "91"
     },
@@ -7560,12 +7560,12 @@
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "191131",
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "191132",
         "district_id": "91"
     },
@@ -7580,7 +7580,7 @@
         "district_id": "557"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "191203",
         "district_id": "557"
     },
@@ -7595,7 +7595,7 @@
         "district_id": "21"
     },
     {
-        "name": "NA",
+        "name": "Awantipora",
         "pin_code": "192122",
         "district_id": "21"
     },
@@ -7605,7 +7605,7 @@
         "district_id": "461"
     },
     {
-        "name": "NA",
+        "name": "Bijbehara",
         "pin_code": "192124",
         "district_id": "21"
     },
@@ -7615,7 +7615,7 @@
         "district_id": "21"
     },
     {
-        "name": "NA",
+        "name": "Pahalgam",
         "pin_code": "192126",
         "district_id": "21"
     },
@@ -7630,7 +7630,7 @@
         "district_id": "21"
     },
     {
-        "name": "NA",
+        "name": "Anantnag",
         "pin_code": "192202",
         "district_id": "21"
     },
@@ -7655,12 +7655,12 @@
         "district_id": "21"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "192230",
         "district_id": "21"
     },
     {
-        "name": "NA",
+        "name": "Kulgam",
         "pin_code": "192231",
         "district_id": "21"
     },
@@ -7675,12 +7675,12 @@
         "district_id": "330"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "192301",
         "district_id": "461"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "192302",
         "district_id": "461"
     },
@@ -7705,7 +7705,7 @@
         "district_id": "461"
     },
     {
-        "name": "NA",
+        "name": "Srinagar HQ",
         "pin_code": "192401",
         "district_id": "21"
     },
@@ -7795,7 +7795,7 @@
         "district_id": "50"
     },
     {
-        "name": "NA",
+        "name": "Tangmarg",
         "pin_code": "193402",
         "district_id": "50"
     },
@@ -8000,7 +8000,7 @@
         "district_id": "199"
     },
     {
-        "name": "NA",
+        "name": "Lucknow  HQ",
         "pin_code": "201103",
         "district_id": "199"
     },
@@ -8135,7 +8135,7 @@
         "district_id": "9"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "202130",
         "district_id": "9"
     },
@@ -8185,7 +8185,7 @@
         "district_id": "9"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "202140",
         "district_id": "9"
     },
@@ -8245,7 +8245,7 @@
         "district_id": "9"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "202282",
         "district_id": "9"
     },
@@ -8255,7 +8255,7 @@
         "district_id": "92"
     },
     {
-        "name": "NA",
+        "name": "Bulandshahr",
         "pin_code": "203002",
         "district_id": "92"
     },
@@ -8385,7 +8385,7 @@
         "district_id": "92"
     },
     {
-        "name": "NA",
+        "name": "Bulandshahr",
         "pin_code": "203401",
         "district_id": "92"
     },
@@ -8430,12 +8430,12 @@
         "district_id": "92"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "204101",
         "district_id": "224"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "204102",
         "district_id": "224"
     },
@@ -8455,7 +8455,7 @@
         "district_id": "9"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "204214",
         "district_id": "224"
     },
@@ -8465,7 +8465,7 @@
         "district_id": "9"
     },
     {
-        "name": "NA",
+        "name": "Aligarh",
         "pin_code": "204216",
         "district_id": "224"
     },
@@ -8530,7 +8530,7 @@
         "district_id": "364"
     },
     {
-        "name": "NA",
+        "name": "Bhongaon",
         "pin_code": "205303",
         "district_id": "364"
     },
@@ -8625,7 +8625,7 @@
         "district_id": "178"
     },
     {
-        "name": "NA",
+        "name": "Bidhuna",
         "pin_code": "206243",
         "district_id": "28"
     },
@@ -8705,7 +8705,7 @@
         "district_id": "177"
     },
     {
-        "name": "NA",
+        "name": "Etah",
         "pin_code": "207121",
         "district_id": "177"
     },
@@ -8755,7 +8755,7 @@
         "district_id": "177"
     },
     {
-        "name": "NA",
+        "name": "Patiali",
         "pin_code": "207246",
         "district_id": "177"
     },
@@ -9460,12 +9460,12 @@
         "district_id": "363"
     },
     {
-        "name": "NA",
+        "name": "Hamirpur",
         "pin_code": "210425",
         "district_id": "363"
     },
     {
-        "name": "NA",
+        "name": "Hamirpur",
         "pin_code": "210426",
         "district_id": "363"
     },
@@ -9500,7 +9500,7 @@
         "district_id": "217"
     },
     {
-        "name": "NA",
+        "name": "Kanpur",
         "pin_code": "210433",
         "district_id": "363"
     },
@@ -9930,7 +9930,7 @@
         "district_id": "604"
     },
     {
-        "name": "NA",
+        "name": "Varanasi",
         "pin_code": "221005",
         "district_id": "604"
     },
@@ -10510,7 +10510,7 @@
         "district_id": "179"
     },
     {
-        "name": "NA",
+        "name": "Rudauli",
         "pin_code": "224116",
         "district_id": "179"
     },
@@ -11140,7 +11140,7 @@
         "district_id": "351"
     },
     {
-        "name": "NA",
+        "name": "Lucknow  HQ",
         "pin_code": "226027",
         "district_id": "351"
     },
@@ -11160,7 +11160,7 @@
         "district_id": "351"
     },
     {
-        "name": "NA",
+        "name": "Lucknow  HQ",
         "pin_code": "226031",
         "district_id": "351"
     },
@@ -11190,7 +11190,7 @@
         "district_id": "351"
     },
     {
-        "name": "NA",
+        "name": "Bakshi Ka Talab",
         "pin_code": "226202",
         "district_id": "351"
     },
@@ -11220,7 +11220,7 @@
         "district_id": "351"
     },
     {
-        "name": "NA",
+        "name": "Mohanlalganj",
         "pin_code": "226501",
         "district_id": "351"
     },
@@ -11745,7 +11745,7 @@
         "district_id": "459"
     },
     {
-        "name": "NA",
+        "name": "Allahabad",
         "pin_code": "230133",
         "district_id": "459"
     },
@@ -12355,7 +12355,7 @@
         "district_id": "221"
     },
     {
-        "name": "NA",
+        "name": "Sandila",
         "pin_code": "241204",
         "district_id": "221"
     },
@@ -12640,7 +12640,7 @@
         "district_id": "90"
     },
     {
-        "name": "NA",
+        "name": "Dataganj",
         "pin_code": "243630",
         "district_id": "90"
     },
@@ -13735,7 +13735,7 @@
         "district_id": "139"
     },
     {
-        "name": "NA",
+        "name": "Vikasnagar **",
         "pin_code": "248003",
         "district_id": "139"
     },
@@ -15295,7 +15295,7 @@
         "district_id": "205"
     },
     {
-        "name": "NA",
+        "name": "Gonda",
         "pin_code": "271002",
         "district_id": "205"
     },
@@ -15655,7 +15655,7 @@
         "district_id": "35"
     },
     {
-        "name": "NA",
+        "name": "Kaiserganj",
         "pin_code": "271904",
         "district_id": "35"
     },
@@ -15775,17 +15775,17 @@
         "district_id": "505"
     },
     {
-        "name": "NA",
+        "name": "Basti",
         "pin_code": "272170",
         "district_id": "505"
     },
     {
-        "name": "NA",
+        "name": "Basti Sadar",
         "pin_code": "272171",
         "district_id": "60"
     },
     {
-        "name": "NA",
+        "name": "Dhanghata",
         "pin_code": "272172",
         "district_id": "505"
     },
@@ -15925,7 +15925,7 @@
         "district_id": "208"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "273002",
         "district_id": "208"
     },
@@ -15950,7 +15950,7 @@
         "district_id": "208"
     },
     {
-        "name": "NA",
+        "name": "Gorakhpur",
         "pin_code": "273007",
         "district_id": "208"
     },
@@ -16005,7 +16005,7 @@
         "district_id": "358"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "273152",
         "district_id": "208"
     },
@@ -16075,7 +16075,7 @@
         "district_id": "208"
     },
     {
-        "name": "NA",
+        "name": "KHAJANI",
         "pin_code": "273211",
         "district_id": "208"
     },
@@ -16145,7 +16145,7 @@
         "district_id": "208"
     },
     {
-        "name": "NA",
+        "name": "Gola ",
         "pin_code": "273402",
         "district_id": "208"
     },
@@ -16165,7 +16165,7 @@
         "district_id": "208"
     },
     {
-        "name": "NA",
+        "name": "Bansgaon",
         "pin_code": "273406",
         "district_id": "208"
     },
@@ -16200,7 +16200,7 @@
         "district_id": "208"
     },
     {
-        "name": "NA",
+        "name": "Deoria Sadar",
         "pin_code": "274001",
         "district_id": "141"
     },
@@ -16210,22 +16210,22 @@
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Barhaj",
         "pin_code": "274182",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Deoria Sadar",
         "pin_code": "274201",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Deoria Sadar",
         "pin_code": "274202",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Hata",
         "pin_code": "274203",
         "district_id": "336"
     },
@@ -16235,7 +16235,7 @@
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Gorakhpur",
         "pin_code": "274205",
         "district_id": "141"
     },
@@ -16250,7 +16250,7 @@
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Rudrapur",
         "pin_code": "274208",
         "district_id": "141"
     },
@@ -16270,7 +16270,7 @@
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Padrauna",
         "pin_code": "274304",
         "district_id": "336"
     },
@@ -16280,12 +16280,12 @@
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Hata",
         "pin_code": "274306",
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Tamkuhi",
         "pin_code": "274401",
         "district_id": "336"
     },
@@ -16300,27 +16300,27 @@
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Deoria Sadar",
         "pin_code": "274404",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Deoria",
         "pin_code": "274405",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Tamkohi",
         "pin_code": "274406",
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Tamkuhi",
         "pin_code": "274407",
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Deoria Sadar",
         "pin_code": "274408",
         "district_id": "141"
     },
@@ -16335,12 +16335,12 @@
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Salempur",
         "pin_code": "274502",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Salempur",
         "pin_code": "274505",
         "district_id": "141"
     },
@@ -16360,17 +16360,17 @@
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Barhaj",
         "pin_code": "274601",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Gorakhpur",
         "pin_code": "274602",
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Barhaj",
         "pin_code": "274603",
         "district_id": "141"
     },
@@ -16395,7 +16395,7 @@
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Bhatpar Rani",
         "pin_code": "274704",
         "district_id": "141"
     },
@@ -16405,12 +16405,12 @@
         "district_id": "141"
     },
     {
-        "name": "NA",
+        "name": "Gorakhpur",
         "pin_code": "274801",
         "district_id": "336"
     },
     {
-        "name": "NA",
+        "name": "Padrauna",
         "pin_code": "274802",
         "district_id": "336"
     },
@@ -16565,7 +16565,7 @@
         "district_id": "31"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "276135",
         "district_id": "31"
     },
@@ -16730,7 +16730,7 @@
         "district_id": "39"
     },
     {
-        "name": "NA",
+        "name": "Bairia",
         "pin_code": "277201",
         "district_id": "39"
     },
@@ -17010,27 +17010,27 @@
         "district_id": "375"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282001",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282002",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282003",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282004",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282005",
         "district_id": "2"
     },
@@ -17040,12 +17040,12 @@
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "282007",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282008",
         "district_id": "2"
     },
@@ -17055,12 +17055,12 @@
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "282010",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Kiraoli",
         "pin_code": "283101",
         "district_id": "2"
     },
@@ -17070,17 +17070,17 @@
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Firozabad",
         "pin_code": "283103",
         "district_id": "187"
     },
     {
-        "name": "NA",
+        "name": "Bah",
         "pin_code": "283104",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "283105",
         "district_id": "2"
     },
@@ -17110,7 +17110,7 @@
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Keragarh",
         "pin_code": "283115",
         "district_id": "2"
     },
@@ -17120,12 +17120,12 @@
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "283121",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "283122",
         "district_id": "2"
     },
@@ -17135,17 +17135,17 @@
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Agra",
         "pin_code": "283124",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Fatehabad",
         "pin_code": "283125",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Etmadpur",
         "pin_code": "283126",
         "district_id": "2"
     },
@@ -17190,12 +17190,12 @@
         "district_id": "187"
     },
     {
-        "name": "NA",
+        "name": "Etmadpur",
         "pin_code": "283201",
         "district_id": "2"
     },
     {
-        "name": "NA",
+        "name": "Etmadpur",
         "pin_code": "283202",
         "district_id": "2"
     },
@@ -17245,7 +17245,7 @@
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Jhansi",
         "pin_code": "284121",
         "district_id": "261"
     },
@@ -17270,7 +17270,7 @@
         "district_id": "341"
     },
     {
-        "name": "NA",
+        "name": "Talbehat",
         "pin_code": "284126",
         "district_id": "341"
     },
@@ -17290,12 +17290,12 @@
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Lalitpur",
         "pin_code": "284136",
         "district_id": "341"
     },
     {
-        "name": "NA",
+        "name": "Jhansi",
         "pin_code": "284201",
         "district_id": "261"
     },
@@ -17310,7 +17310,7 @@
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Mauranipur",
         "pin_code": "284204",
         "district_id": "261"
     },
@@ -17320,17 +17320,17 @@
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Mauranipur",
         "pin_code": "284206",
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Jhnsi",
         "pin_code": "284301",
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Maruanipur",
         "pin_code": "284302",
         "district_id": "261"
     },
@@ -17340,7 +17340,7 @@
         "district_id": "261"
     },
     {
-        "name": "NA",
+        "name": "Moth",
         "pin_code": "284304",
         "district_id": "261"
     },
@@ -17365,12 +17365,12 @@
         "district_id": "341"
     },
     {
-        "name": "NA",
+        "name": "Lalitpur",
         "pin_code": "284403",
         "district_id": "341"
     },
     {
-        "name": "NA",
+        "name": "Mahroni",
         "pin_code": "284404",
         "district_id": "341"
     },
@@ -17420,7 +17420,7 @@
         "district_id": "245"
     },
     {
-        "name": "NA",
+        "name": "Madhogarh",
         "pin_code": "285125",
         "district_id": "245"
     },
@@ -17445,7 +17445,7 @@
         "district_id": "245"
     },
     {
-        "name": "NA",
+        "name": "Madhogarh",
         "pin_code": "285130",
         "district_id": "245"
     },
@@ -17790,7 +17790,7 @@
         "district_id": "241"
     },
     {
-        "name": "NA",
+        "name": "Jaipur",
         "pin_code": "302026",
         "district_id": "241"
     },
@@ -18020,7 +18020,7 @@
         "district_id": "241"
     },
     {
-        "name": "NA",
+        "name": "Jaipur HQ",
         "pin_code": "303329",
         "district_id": "241"
     },
@@ -18220,7 +18220,7 @@
         "district_id": "584"
     },
     {
-        "name": "NA",
+        "name": "Tonk",
         "pin_code": "304501",
         "district_id": "584"
     },
@@ -18565,7 +18565,7 @@
         "district_id": "6"
     },
     {
-        "name": "NA",
+        "name": "Marwar Jn.",
         "pin_code": "306001",
         "district_id": "437"
     },
@@ -18620,7 +18620,7 @@
         "district_id": "437"
     },
     {
-        "name": "NA",
+        "name": "Bali",
         "pin_code": "306116",
         "district_id": "437"
     },
@@ -18630,7 +18630,7 @@
         "district_id": "437"
     },
     {
-        "name": "NA",
+        "name": "Sumerpur",
         "pin_code": "306126",
         "district_id": "437"
     },
@@ -18795,17 +18795,17 @@
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Pindwara",
         "pin_code": "307022",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Pindwara",
         "pin_code": "307023",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Aburoad",
         "pin_code": "307024",
         "district_id": "535"
     },
@@ -18820,12 +18820,12 @@
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Sheoganj",
         "pin_code": "307027",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Sheoganj",
         "pin_code": "307028",
         "district_id": "535"
     },
@@ -18835,17 +18835,17 @@
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Ahore",
         "pin_code": "307030",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Pindwara",
         "pin_code": "307031",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Sirohi",
         "pin_code": "307043",
         "district_id": "535"
     },
@@ -18855,7 +18855,7 @@
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Abu Road",
         "pin_code": "307510",
         "district_id": "535"
     },
@@ -18865,42 +18865,42 @@
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Reodar",
         "pin_code": "307512",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Reodar",
         "pin_code": "307513",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Reodar",
         "pin_code": "307514",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Bhinmal",
         "pin_code": "307515",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Sirohi",
         "pin_code": "307801",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Sirohi",
         "pin_code": "307802",
         "district_id": "535"
     },
     {
-        "name": "NA",
+        "name": "Bhinmal",
         "pin_code": "307803",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Bhilwara",
         "pin_code": "311001",
         "district_id": "73"
     },
@@ -18940,12 +18940,12 @@
         "district_id": "73"
     },
     {
-        "name": "NA",
+        "name": "Ajmer",
         "pin_code": "311030",
         "district_id": "73"
     },
     {
-        "name": "NA",
+        "name": "Bhilwara",
         "pin_code": "311201",
         "district_id": "73"
     },
@@ -19110,7 +19110,7 @@
         "district_id": "118"
     },
     {
-        "name": "NA",
+        "name": "Bhupalsagar",
         "pin_code": "312204",
         "district_id": "118"
     },
@@ -19220,7 +19220,7 @@
         "district_id": "118"
     },
     {
-        "name": "NA",
+        "name": "Ajmer",
         "pin_code": "312622",
         "district_id": "118"
     },
@@ -19260,7 +19260,7 @@
         "district_id": "588"
     },
     {
-        "name": "NA",
+        "name": "Girwa",
         "pin_code": "313015",
         "district_id": "588"
     },
@@ -19530,7 +19530,7 @@
         "district_id": "588"
     },
     {
-        "name": "NA",
+        "name": "Dungarpur",
         "pin_code": "314001",
         "district_id": "162"
     },
@@ -19570,7 +19570,7 @@
         "district_id": "162"
     },
     {
-        "name": "NA",
+        "name": "Dungarpur",
         "pin_code": "314027",
         "district_id": "162"
     },
@@ -19610,7 +19610,7 @@
         "district_id": "162"
     },
     {
-        "name": "NA",
+        "name": "Dungarpur",
         "pin_code": "314036",
         "district_id": "162"
     },
@@ -19620,7 +19620,7 @@
         "district_id": "162"
     },
     {
-        "name": "NA",
+        "name": "Dungarpur",
         "pin_code": "314038",
         "district_id": "162"
     },
@@ -19650,12 +19650,12 @@
         "district_id": "162"
     },
     {
-        "name": "NA",
+        "name": "Dungarpur",
         "pin_code": "314801",
         "district_id": "162"
     },
     {
-        "name": "NA",
+        "name": "Dungarpur",
         "pin_code": "314804",
         "district_id": "162"
     },
@@ -19880,7 +19880,7 @@
         "district_id": "510"
     },
     {
-        "name": "NA",
+        "name": "Sawaimadhopur",
         "pin_code": "322021",
         "district_id": "510"
     },
@@ -20115,7 +20115,7 @@
         "district_id": "94"
     },
     {
-        "name": "NA",
+        "name": "Bundi",
         "pin_code": "323025",
         "district_id": "94"
     },
@@ -20245,7 +20245,7 @@
         "district_id": "325"
     },
     {
-        "name": "NA",
+        "name": "Ajmer",
         "pin_code": "324009",
         "district_id": "325"
     },
@@ -21025,7 +21025,7 @@
         "district_id": "530"
     },
     {
-        "name": "NA",
+        "name": "Nimkathana",
         "pin_code": "332706",
         "district_id": "530"
     },
@@ -21060,7 +21060,7 @@
         "district_id": "530"
     },
     {
-        "name": "NA",
+        "name": "Neem-Ka-Thana",
         "pin_code": "332713",
         "district_id": "530"
     },
@@ -21435,7 +21435,7 @@
         "district_id": "82"
     },
     {
-        "name": "NA",
+        "name": "Sriganganagar",
         "pin_code": "335001",
         "district_id": "193"
     },
@@ -21655,7 +21655,7 @@
         "district_id": "193"
     },
     {
-        "name": "NA",
+        "name": "Nagaur",
         "pin_code": "341001",
         "district_id": "399"
     },
@@ -21710,7 +21710,7 @@
         "district_id": "399"
     },
     {
-        "name": "NA",
+        "name": "Merta",
         "pin_code": "341031",
         "district_id": "399"
     },
@@ -21915,7 +21915,7 @@
         "district_id": "265"
     },
     {
-        "name": "NA",
+        "name": "Jodhpur",
         "pin_code": "342012",
         "district_id": "265"
     },
@@ -21950,7 +21950,7 @@
         "district_id": "265"
     },
     {
-        "name": "NA",
+        "name": "Jodhpur",
         "pin_code": "342024",
         "district_id": "265"
     },
@@ -22025,7 +22025,7 @@
         "district_id": "265"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "342310",
         "district_id": "242"
     },
@@ -22085,7 +22085,7 @@
         "district_id": "265"
     },
     {
-        "name": "NA",
+        "name": "Aau",
         "pin_code": "342901",
         "district_id": "265"
     },
@@ -22095,32 +22095,32 @@
         "district_id": "399"
     },
     {
-        "name": "NA",
+        "name": "Jalore",
         "pin_code": "343001",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Jodhpur",
         "pin_code": "343002",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Jalor",
         "pin_code": "343021",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Sayla",
         "pin_code": "343022",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Jodhpur",
         "pin_code": "343023",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Jalor",
         "pin_code": "343024",
         "district_id": "248"
     },
@@ -22130,12 +22130,12 @@
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Sanchore",
         "pin_code": "343027",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Bhinmal",
         "pin_code": "343028",
         "district_id": "248"
     },
@@ -22145,7 +22145,7 @@
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Bhinmal",
         "pin_code": "343030",
         "district_id": "248"
     },
@@ -22155,32 +22155,32 @@
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Bhinmal",
         "pin_code": "343039",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Raniwara",
         "pin_code": "343040",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Sanchore",
         "pin_code": "343041",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Jalor",
         "pin_code": "343042",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Sanchore",
         "pin_code": "343048",
         "district_id": "248"
     },
     {
-        "name": "NA",
+        "name": "Bhinmal",
         "pin_code": "343049",
         "district_id": "248"
     },
@@ -22320,62 +22320,62 @@
         "district_id": "55"
     },
     {
-        "name": "NA",
+        "name": "Bilara",
         "pin_code": "345001",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Pokaran",
         "pin_code": "345021",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345022",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Pokaran",
         "pin_code": "345023",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345024",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345025",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Pokaran",
         "pin_code": "345026",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Fatehgarh",
         "pin_code": "345027",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345028",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345031",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345033",
         "district_id": "242"
     },
     {
-        "name": "NA",
+        "name": "Jaisalmer",
         "pin_code": "345034",
         "district_id": "242"
     },
@@ -22420,7 +22420,7 @@
         "district_id": "474"
     },
     {
-        "name": "NA",
+        "name": "Lodhika",
         "pin_code": "360021",
         "district_id": "474"
     },
@@ -22605,7 +22605,7 @@
         "district_id": "251"
     },
     {
-        "name": "NA",
+        "name": "Porbandar",
         "pin_code": "360545",
         "district_id": "457"
     },
@@ -22615,7 +22615,7 @@
         "district_id": "457"
     },
     {
-        "name": "NA",
+        "name": "Ranavav",
         "pin_code": "360560",
         "district_id": "457"
     },
@@ -22640,7 +22640,7 @@
         "district_id": "457"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "360578",
         "district_id": "457"
     },
@@ -22855,12 +22855,12 @@
         "district_id": "251"
     },
     {
-        "name": "NA",
+        "name": "Junagadh",
         "pin_code": "362001",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362002",
         "district_id": "267"
     },
@@ -22870,67 +22870,67 @@
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Junagadh",
         "pin_code": "362011",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Junagadh",
         "pin_code": "362015",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Bhesan",
         "pin_code": "362020",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362030",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Junagadh",
         "pin_code": "362037",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362110",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362120",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362130",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Talala",
         "pin_code": "362135",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Talala",
         "pin_code": "362140",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Talala",
         "pin_code": "362150",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362205",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Vanthali(s)",
         "pin_code": "362215",
         "district_id": "267"
     },
@@ -22980,27 +22980,27 @@
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Malia",
         "pin_code": "362245",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Malia",
         "pin_code": "362250",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Patan-Veraval",
         "pin_code": "362255",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Mendarda",
         "pin_code": "362260",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Junagadh",
         "pin_code": "362263",
         "district_id": "267"
     },
@@ -23010,22 +23010,22 @@
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Patan-Veraval",
         "pin_code": "362266",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Patan-Veraval",
         "pin_code": "362268",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Patan-Veraval",
         "pin_code": "362269",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Sutrapada",
         "pin_code": "362275",
         "district_id": "267"
     },
@@ -23035,12 +23035,12 @@
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362310",
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362315",
         "district_id": "267"
     },
@@ -23085,7 +23085,7 @@
         "district_id": "159"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362610",
         "district_id": "267"
     },
@@ -23115,7 +23115,7 @@
         "district_id": "457"
     },
     {
-        "name": "NA",
+        "name": "Rajkot",
         "pin_code": "362710",
         "district_id": "267"
     },
@@ -23130,7 +23130,7 @@
         "district_id": "267"
     },
     {
-        "name": "NA",
+        "name": "Kodinar",
         "pin_code": "362725",
         "district_id": "267"
     },
@@ -23400,7 +23400,7 @@
         "district_id": "72"
     },
     {
-        "name": "NA",
+        "name": "Sihor",
         "pin_code": "364250",
         "district_id": "72"
     },
@@ -23485,7 +23485,7 @@
         "district_id": "72"
     },
     {
-        "name": "NA",
+        "name": "Jesar",
         "pin_code": "364510",
         "district_id": "72"
     },
@@ -23540,7 +23540,7 @@
         "district_id": "72"
     },
     {
-        "name": "NA",
+        "name": "Gadhada",
         "pin_code": "364760",
         "district_id": "72"
     },
@@ -23580,7 +23580,7 @@
         "district_id": "17"
     },
     {
-        "name": "NA",
+        "name": "Amreli",
         "pin_code": "365450",
         "district_id": "17"
     },
@@ -24815,7 +24815,7 @@
         "district_id": "494"
     },
     {
-        "name": "NA",
+        "name": "Malpur",
         "pin_code": "383345",
         "district_id": "4"
     },
@@ -26035,7 +26035,7 @@
         "district_id": "601"
     },
     {
-        "name": "NA",
+        "name": "Vadodara",
         "pin_code": "390009",
         "district_id": "601"
     },
@@ -26425,7 +26425,7 @@
         "district_id": "71"
     },
     {
-        "name": "NA",
+        "name": "Amod",
         "pin_code": "392110",
         "district_id": "601"
     },
@@ -26915,7 +26915,7 @@
         "district_id": "561"
     },
     {
-        "name": "NA",
+        "name": "Variav",
         "pin_code": "394520",
         "district_id": "561"
     },
@@ -26930,7 +26930,7 @@
         "district_id": "561"
     },
     {
-        "name": "NA",
+        "name": "Choryasi",
         "pin_code": "394550",
         "district_id": "561"
     },
@@ -27045,7 +27045,7 @@
         "district_id": "561"
     },
     {
-        "name": "NA",
+        "name": "Surat City",
         "pin_code": "395003",
         "district_id": "561"
     },
@@ -27510,7 +27510,7 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400003",
         "district_id": "389"
     },
@@ -27540,7 +27540,7 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400009",
         "district_id": "389"
     },
@@ -27555,7 +27555,7 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400012",
         "district_id": "389"
     },
@@ -27675,12 +27675,12 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400042",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400043",
         "district_id": "389"
     },
@@ -27785,82 +27785,82 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400070",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400071",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400072",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400074",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400075",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400076",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400077",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400078",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400079",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400080",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400081",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400082",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400083",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400084",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400085",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400086",
         "district_id": "389"
     },
@@ -27870,12 +27870,12 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400088",
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400089",
         "district_id": "389"
     },
@@ -27895,7 +27895,7 @@
         "district_id": "389"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400094",
         "district_id": "389"
     },
@@ -27950,7 +27950,7 @@
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Thane",
         "pin_code": "400602",
         "district_id": "569"
     },
@@ -27980,12 +27980,12 @@
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Thane",
         "pin_code": "400608",
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400610",
         "district_id": "569"
     },
@@ -27995,7 +27995,7 @@
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400614",
         "district_id": "569"
     },
@@ -28015,7 +28015,7 @@
         "district_id": "469"
     },
     {
-        "name": "NA",
+        "name": "Thane",
         "pin_code": "400703",
         "district_id": "569"
     },
@@ -28040,12 +28040,12 @@
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400709",
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Mumbai",
         "pin_code": "400710",
         "district_id": "569"
     },
@@ -28880,7 +28880,7 @@
         "district_id": "552"
     },
     {
-        "name": "NA",
+        "name": "Mormugao",
         "pin_code": "403801",
         "district_id": "552"
     },
@@ -29220,7 +29220,7 @@
         "district_id": "462"
     },
     {
-        "name": "NA",
+        "name": "Pune City",
         "pin_code": "411027",
         "district_id": "462"
     },
@@ -30160,7 +30160,7 @@
         "district_id": "343"
     },
     {
-        "name": "NA",
+        "name": "Ahmedpur",
         "pin_code": "413514",
         "district_id": "433"
     },
@@ -30170,17 +30170,17 @@
         "district_id": "343"
     },
     {
-        "name": "NA",
+        "name": "Ausa",
         "pin_code": "413516",
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Shirur-Anantpal",
         "pin_code": "413517",
         "district_id": "343"
     },
     {
-        "name": "NA",
+        "name": "Udgir",
         "pin_code": "413518",
         "district_id": "343"
     },
@@ -30205,12 +30205,12 @@
         "district_id": "343"
     },
     {
-        "name": "NA",
+        "name": "Ahmedpur",
         "pin_code": "413523",
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Chakur",
         "pin_code": "413524",
         "district_id": "343"
     },
@@ -30225,7 +30225,7 @@
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Renapur",
         "pin_code": "413527",
         "district_id": "433"
     },
@@ -30235,7 +30235,7 @@
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Chakur",
         "pin_code": "413529",
         "district_id": "343"
     },
@@ -30245,12 +30245,12 @@
         "district_id": "343"
     },
     {
-        "name": "NA",
+        "name": "Latur",
         "pin_code": "413531",
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Jalkot",
         "pin_code": "413532",
         "district_id": "343"
     },
@@ -30260,7 +30260,7 @@
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Shirur Anantpal",
         "pin_code": "413544",
         "district_id": "433"
     },
@@ -30270,7 +30270,7 @@
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Chakur",
         "pin_code": "413581",
         "district_id": "433"
     },
@@ -30310,7 +30310,7 @@
         "district_id": "433"
     },
     {
-        "name": "NA",
+        "name": "Nilanga",
         "pin_code": "413607",
         "district_id": "343"
     },
@@ -32245,7 +32245,7 @@
         "district_id": "532"
     },
     {
-        "name": "NA",
+        "name": "Malvan",
         "pin_code": "416606",
         "district_id": "532"
     },
@@ -32515,7 +32515,7 @@
         "district_id": "569"
     },
     {
-        "name": "NA",
+        "name": "Shahapur",
         "pin_code": "421402",
         "district_id": "569"
     },
@@ -32700,7 +32700,7 @@
         "district_id": "411"
     },
     {
-        "name": "NA",
+        "name": "Dindori",
         "pin_code": "422207",
         "district_id": "411"
     },
@@ -33970,7 +33970,7 @@
         "district_id": "443"
     },
     {
-        "name": "NA",
+        "name": "Partur",
         "pin_code": "431507",
         "district_id": "247"
     },
@@ -34045,7 +34045,7 @@
         "district_id": "443"
     },
     {
-        "name": "NA",
+        "name": "Renapur",
         "pin_code": "431522",
         "district_id": "433"
     },
@@ -34105,7 +34105,7 @@
         "district_id": "406"
     },
     {
-        "name": "NA",
+        "name": "Bhokar",
         "pin_code": "431605",
         "district_id": "406"
     },
@@ -34600,7 +34600,7 @@
         "district_id": "190"
     },
     {
-        "name": "NA",
+        "name": "Kuhi",
         "pin_code": "441210",
         "district_id": "400"
     },
@@ -35240,32 +35240,32 @@
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Akola",
         "pin_code": "444004",
         "district_id": "613"
     },
     {
-        "name": "NA",
+        "name": "Akola",
         "pin_code": "444005",
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Akola",
         "pin_code": "444006",
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Akot",
         "pin_code": "444101",
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Akola",
         "pin_code": "444102",
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Telhara",
         "pin_code": "444103",
         "district_id": "7"
     },
@@ -35300,7 +35300,7 @@
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Karanja",
         "pin_code": "444110",
         "district_id": "613"
     },
@@ -35375,7 +35375,7 @@
         "district_id": "93"
     },
     {
-        "name": "NA",
+        "name": "Barshitakli",
         "pin_code": "444401",
         "district_id": "7"
     },
@@ -35405,7 +35405,7 @@
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Mangrulpir",
         "pin_code": "444409",
         "district_id": "613"
     },
@@ -35455,12 +35455,12 @@
         "district_id": "7"
     },
     {
-        "name": "NA",
+        "name": "Amravati",
         "pin_code": "444601",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Amravati",
         "pin_code": "444602",
         "district_id": "16"
     },
@@ -35490,12 +35490,12 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Amaravati",
         "pin_code": "444701",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Dharni",
         "pin_code": "444702",
         "district_id": "16"
     },
@@ -35505,7 +35505,7 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Anjangaon",
         "pin_code": "444705",
         "district_id": "16"
     },
@@ -35515,37 +35515,37 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Morshi",
         "pin_code": "444707",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Nandgaon Khandeshwar",
         "pin_code": "444708",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Dhamangaon R.s.",
         "pin_code": "444709",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Dhamangaon Rly",
         "pin_code": "444710",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Dhamangaon Rly",
         "pin_code": "444711",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Achalpur City",
         "pin_code": "444717",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Dharni",
         "pin_code": "444719",
         "district_id": "16"
     },
@@ -35555,17 +35555,17 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Chandur Bazar",
         "pin_code": "444723",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Amravati",
         "pin_code": "444801",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Daryapur",
         "pin_code": "444802",
         "district_id": "16"
     },
@@ -35575,7 +35575,7 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Bhatkuli",
         "pin_code": "444804",
         "district_id": "16"
     },
@@ -35595,7 +35595,7 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Achalpur City",
         "pin_code": "444808",
         "district_id": "16"
     },
@@ -35610,12 +35610,12 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Dharni",
         "pin_code": "444813",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Amravati",
         "pin_code": "444901",
         "district_id": "16"
     },
@@ -35625,7 +35625,7 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Tiosa",
         "pin_code": "444903",
         "district_id": "16"
     },
@@ -35635,22 +35635,22 @@
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Morshi",
         "pin_code": "444905",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Warud",
         "pin_code": "444906",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Warud",
         "pin_code": "444907",
         "district_id": "16"
     },
     {
-        "name": "NA",
+        "name": "Warud",
         "pin_code": "444908",
         "district_id": "16"
     },
@@ -36840,12 +36840,12 @@
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Itarsi",
         "pin_code": "461115",
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Hoshangabad",
         "pin_code": "461116",
         "district_id": "230"
     },
@@ -36855,27 +36855,27 @@
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Seoni Malwa",
         "pin_code": "461221",
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Seoni Malwa",
         "pin_code": "461223",
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Timarni",
         "pin_code": "461228",
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Harda",
         "pin_code": "461331",
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Khirkiyan",
         "pin_code": "461441",
         "district_id": "230"
     },
@@ -36890,7 +36890,7 @@
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Babai",
         "pin_code": "461661",
         "district_id": "230"
     },
@@ -36900,12 +36900,12 @@
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Sohagpur",
         "pin_code": "461771",
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Pipariya",
         "pin_code": "461775",
         "district_id": "230"
     },
@@ -36915,7 +36915,7 @@
         "district_id": "230"
     },
     {
-        "name": "NA",
+        "name": "Bankhedi",
         "pin_code": "461990",
         "district_id": "230"
     },
@@ -37095,7 +37095,7 @@
         "district_id": "77"
     },
     {
-        "name": "NA",
+        "name": "Vidisha",
         "pin_code": "464001",
         "district_id": "606"
     },
@@ -37105,7 +37105,7 @@
         "district_id": "606"
     },
     {
-        "name": "NA",
+        "name": "Vidisha",
         "pin_code": "464113",
         "district_id": "606"
     },
@@ -37115,12 +37115,12 @@
         "district_id": "606"
     },
     {
-        "name": "NA",
+        "name": "Gyaraspur",
         "pin_code": "464220",
         "district_id": "606"
     },
     {
-        "name": "NA",
+        "name": "Nateran",
         "pin_code": "464221",
         "district_id": "606"
     },
@@ -37130,7 +37130,7 @@
         "district_id": "606"
     },
     {
-        "name": "NA",
+        "name": "Vidisha",
         "pin_code": "464226",
         "district_id": "606"
     },
@@ -37145,12 +37145,12 @@
         "district_id": "495"
     },
     {
-        "name": "NA",
+        "name": "Nateran",
         "pin_code": "464258",
         "district_id": "606"
     },
     {
-        "name": "NA",
+        "name": "Gyaraspur",
         "pin_code": "464331",
         "district_id": "606"
     },
@@ -37235,7 +37235,7 @@
         "district_id": "471"
     },
     {
-        "name": "NA",
+        "name": "Goharganj",
         "pin_code": "464993",
         "district_id": "471"
     },
@@ -38395,7 +38395,7 @@
         "district_id": "74"
     },
     {
-        "name": "NA",
+        "name": "Bhind",
         "pin_code": "477566",
         "district_id": "74"
     },
@@ -38410,7 +38410,7 @@
         "district_id": "112"
     },
     {
-        "name": "NA",
+        "name": "Bhopal HQ",
         "pin_code": "480003",
         "district_id": "112"
     },
@@ -38420,7 +38420,7 @@
         "district_id": "112"
     },
     {
-        "name": "NA",
+        "name": "Sausar",
         "pin_code": "480106",
         "district_id": "112"
     },
@@ -38450,7 +38450,7 @@
         "district_id": "112"
     },
     {
-        "name": "NA",
+        "name": "Bhopal HQ",
         "pin_code": "480112",
         "district_id": "112"
     },
@@ -38480,7 +38480,7 @@
         "district_id": "112"
     },
     {
-        "name": "NA",
+        "name": "Pandhurna",
         "pin_code": "480334",
         "district_id": "112"
     },
@@ -39245,7 +39245,7 @@
         "district_id": "509"
     },
     {
-        "name": "NA",
+        "name": "Maihar",
         "pin_code": "485773",
         "district_id": "509"
     },
@@ -39325,7 +39325,7 @@
         "district_id": "486"
     },
     {
-        "name": "NA",
+        "name": "Teonthar",
         "pin_code": "486223",
         "district_id": "486"
     },
@@ -39510,7 +39510,7 @@
         "district_id": "529"
     },
     {
-        "name": "NA",
+        "name": "Narsimhapur",
         "pin_code": "487001",
         "district_id": "410"
     },
@@ -39525,12 +39525,12 @@
         "district_id": "410"
     },
     {
-        "name": "NA",
+        "name": "Gotegaon",
         "pin_code": "487118",
         "district_id": "410"
     },
     {
-        "name": "NA",
+        "name": "Kareli",
         "pin_code": "487221",
         "district_id": "410"
     },
@@ -39560,17 +39560,17 @@
         "district_id": "410"
     },
     {
-        "name": "NA",
+        "name": "Gadarwara",
         "pin_code": "487551",
         "district_id": "410"
     },
     {
-        "name": "NA",
+        "name": "Gadarwara",
         "pin_code": "487555",
         "district_id": "410"
     },
     {
-        "name": "NA",
+        "name": "Gadarwara",
         "pin_code": "487661",
         "district_id": "410"
     },
@@ -39580,7 +39580,7 @@
         "district_id": "410"
     },
     {
-        "name": "NA",
+        "name": "Gadarwara",
         "pin_code": "487881",
         "district_id": "410"
     },
@@ -39890,7 +39890,7 @@
         "district_id": "470"
     },
     {
-        "name": "NA",
+        "name": "Raipur",
         "pin_code": "492003",
         "district_id": "470"
     },
@@ -39925,7 +39925,7 @@
         "district_id": "470"
     },
     {
-        "name": "NA",
+        "name": "Raipur",
         "pin_code": "492013",
         "district_id": "470"
     },
@@ -39980,7 +39980,7 @@
         "district_id": "470"
     },
     {
-        "name": "NA",
+        "name": "Baikunth",
         "pin_code": "493116",
         "district_id": "470"
     },
@@ -40000,7 +40000,7 @@
         "district_id": "470"
     },
     {
-        "name": "NA",
+        "name": "Birgaon",
         "pin_code": "493221",
         "district_id": "470"
     },
@@ -40275,7 +40275,7 @@
         "district_id": "278"
     },
     {
-        "name": "NA",
+        "name": "Charama",
         "pin_code": "494337",
         "district_id": "278"
     },
@@ -40540,7 +40540,7 @@
         "district_id": "84"
     },
     {
-        "name": "NA",
+        "name": "Dabhara",
         "pin_code": "495552",
         "district_id": "84"
     },
@@ -40575,7 +40575,7 @@
         "district_id": "254"
     },
     {
-        "name": "NA",
+        "name": "Champa",
         "pin_code": "495660",
         "district_id": "254"
     },
@@ -40675,12 +40675,12 @@
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Raigarh",
         "pin_code": "496100",
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Raigarh",
         "pin_code": "496107",
         "district_id": "468"
     },
@@ -40700,12 +40700,12 @@
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Raigarh",
         "pin_code": "496113",
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Raigarh",
         "pin_code": "496115",
         "district_id": "468"
     },
@@ -40715,7 +40715,7 @@
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Pathalgaon",
         "pin_code": "496118",
         "district_id": "255"
     },
@@ -40725,7 +40725,7 @@
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Bagicha",
         "pin_code": "496223",
         "district_id": "255"
     },
@@ -40735,7 +40735,7 @@
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Kunkuri",
         "pin_code": "496225",
         "district_id": "255"
     },
@@ -40755,12 +40755,12 @@
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Jashpurnagar",
         "pin_code": "496330",
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Jashpurnagar",
         "pin_code": "496331",
         "district_id": "255"
     },
@@ -40770,22 +40770,22 @@
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Jashpurnagar",
         "pin_code": "496336",
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Jashpurnagar",
         "pin_code": "496338",
         "district_id": "255"
     },
     {
-        "name": "NA",
+        "name": "Raigarh",
         "pin_code": "496440",
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Sarangarh",
         "pin_code": "496445",
         "district_id": "468"
     },
@@ -40805,7 +40805,7 @@
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Raigarh",
         "pin_code": "496661",
         "district_id": "468"
     },
@@ -40815,27 +40815,27 @@
         "district_id": "468"
     },
     {
-        "name": "NA",
+        "name": "Ambikapur",
         "pin_code": "497001",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Surguja",
         "pin_code": "497101",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Sitapur",
         "pin_code": "497111",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Surguja",
         "pin_code": "497114",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Lakhanpur",
         "pin_code": "497116",
         "district_id": "563"
     },
@@ -40850,32 +40850,32 @@
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Ambikapur",
         "pin_code": "497119",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Surguja",
         "pin_code": "497220",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Surguja",
         "pin_code": "497223",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Kusmi",
         "pin_code": "497224",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Pratappur",
         "pin_code": "497225",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Surajpur",
         "pin_code": "497226",
         "district_id": "563"
     },
@@ -40885,7 +40885,7 @@
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Surajpur",
         "pin_code": "497231",
         "district_id": "563"
     },
@@ -40895,22 +40895,22 @@
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Baikunthapur",
         "pin_code": "497331",
         "district_id": "324"
     },
     {
-        "name": "NA",
+        "name": "Surajpur",
         "pin_code": "497333",
         "district_id": "563"
     },
     {
-        "name": "NA",
+        "name": "Baikunthapur",
         "pin_code": "497335",
         "district_id": "324"
     },
     {
-        "name": "NA",
+        "name": "Baikunthapur",
         "pin_code": "497339",
         "district_id": "324"
     },
@@ -40935,7 +40935,7 @@
         "district_id": "324"
     },
     {
-        "name": "NA",
+        "name": "Manendragarh",
         "pin_code": "497449",
         "district_id": "324"
     },
@@ -40970,7 +40970,7 @@
         "district_id": "324"
     },
     {
-        "name": "NA",
+        "name": "Janakpur",
         "pin_code": "497778",
         "district_id": "324"
     },
@@ -41300,7 +41300,7 @@
         "district_id": "233"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad City",
         "pin_code": "500067",
         "district_id": "233"
     },
@@ -41405,7 +41405,7 @@
         "district_id": "233"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad City",
         "pin_code": "500089",
         "district_id": "233"
     },
@@ -41610,12 +41610,12 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502101",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502102",
         "district_id": "378"
     },
@@ -41625,7 +41625,7 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502107",
         "district_id": "378"
     },
@@ -41635,7 +41635,7 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Medak",
         "pin_code": "502109",
         "district_id": "378"
     },
@@ -41645,17 +41645,17 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Medak",
         "pin_code": "502113",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502114",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502115",
         "district_id": "378"
     },
@@ -41665,12 +41665,12 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502125",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Medak",
         "pin_code": "502130",
         "district_id": "378"
     },
@@ -41705,12 +41705,12 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502247",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502248",
         "district_id": "378"
     },
@@ -41725,7 +41725,7 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502255",
         "district_id": "378"
     },
@@ -41740,7 +41740,7 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502267",
         "district_id": "378"
     },
@@ -41765,32 +41765,32 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502276",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502277",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Gujvail",
         "pin_code": "502278",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502279",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502280",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Gujvail",
         "pin_code": "502281",
         "district_id": "378"
     },
@@ -41845,17 +41845,17 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502301",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502302",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Papannapet",
         "pin_code": "502303",
         "district_id": "378"
     },
@@ -41875,17 +41875,17 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502310",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502311",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502312",
         "district_id": "378"
     },
@@ -41935,22 +41935,22 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Medak",
         "pin_code": "502331",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502334",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502335",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502336",
         "district_id": "378"
     },
@@ -41965,17 +41965,17 @@
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502372",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502375",
         "district_id": "378"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "502381",
         "district_id": "378"
     },
@@ -42065,7 +42065,7 @@
         "district_id": "421"
     },
     {
-        "name": "NA",
+        "name": "Dichpalle",
         "pin_code": "503164",
         "district_id": "421"
     },
@@ -42135,7 +42135,7 @@
         "district_id": "421"
     },
     {
-        "name": "NA",
+        "name": "Nizamabad",
         "pin_code": "503213",
         "district_id": "421"
     },
@@ -42310,7 +42310,7 @@
         "district_id": "1"
     },
     {
-        "name": "NA",
+        "name": "Khanapur",
         "pin_code": "504203",
         "district_id": "1"
     },
@@ -42500,32 +42500,32 @@
         "district_id": "1"
     },
     {
-        "name": "NA",
+        "name": "Karimnagar",
         "pin_code": "505001",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505101",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505102",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Jammikunta",
         "pin_code": "505122",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505129",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505152",
         "district_id": "289"
     },
@@ -42535,7 +42535,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505162",
         "district_id": "289"
     },
@@ -42545,22 +42545,22 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Peddapalle",
         "pin_code": "505174",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Manthani",
         "pin_code": "505184",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Sultanabad",
         "pin_code": "505185",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Sultanabad",
         "pin_code": "505186",
         "district_id": "289"
     },
@@ -42570,12 +42570,12 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505188",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Ramagundam",
         "pin_code": "505208",
         "district_id": "289"
     },
@@ -42585,7 +42585,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505210",
         "district_id": "289"
     },
@@ -42595,7 +42595,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Kamanpur",
         "pin_code": "505212",
         "district_id": "289"
     },
@@ -42735,7 +42735,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Dharmapuri",
         "pin_code": "505454",
         "district_id": "289"
     },
@@ -42775,7 +42775,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Shankarapatnam",
         "pin_code": "505470",
         "district_id": "289"
     },
@@ -42785,7 +42785,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Saidapur",
         "pin_code": "505472",
         "district_id": "289"
     },
@@ -42795,22 +42795,22 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505474",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505475",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505476",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505480",
         "district_id": "289"
     },
@@ -42820,7 +42820,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505490",
         "district_id": "289"
     },
@@ -42830,7 +42830,7 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Huzurabad",
         "pin_code": "505498",
         "district_id": "289"
     },
@@ -42845,17 +42845,17 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Manthani",
         "pin_code": "505503",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Manthani",
         "pin_code": "505504",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "505505",
         "district_id": "289"
     },
@@ -42870,12 +42870,12 @@
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Julapalle",
         "pin_code": "505525",
         "district_id": "289"
     },
     {
-        "name": "NA",
+        "name": "Velgatur",
         "pin_code": "505526",
         "district_id": "289"
     },
@@ -43175,7 +43175,7 @@
         "district_id": "611"
     },
     {
-        "name": "NA",
+        "name": "Regonda",
         "pin_code": "506319",
         "district_id": "611"
     },
@@ -43610,7 +43610,7 @@
         "district_id": "404"
     },
     {
-        "name": "NA",
+        "name": "Nalgonda",
         "pin_code": "508002",
         "district_id": "404"
     },
@@ -43650,7 +43650,7 @@
         "district_id": "404"
     },
     {
-        "name": "NA",
+        "name": "Yadagarigutta",
         "pin_code": "508115",
         "district_id": "404"
     },
@@ -43690,7 +43690,7 @@
         "district_id": "404"
     },
     {
-        "name": "NA",
+        "name": "Huzurnagar",
         "pin_code": "508206",
         "district_id": "404"
     },
@@ -43905,7 +43905,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Mahbubnagar",
         "pin_code": "509002",
         "district_id": "357"
     },
@@ -43925,7 +43925,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Pangal",
         "pin_code": "509105",
         "district_id": "357"
     },
@@ -43950,57 +43950,57 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Mahabub Nagar ",
         "pin_code": "509126",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509127",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509128",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509129",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509130",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509131",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509132",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Gadwal",
         "pin_code": "509133",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509135",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509152",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509153",
         "district_id": "357"
     },
@@ -44020,12 +44020,12 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509204",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509205",
         "district_id": "357"
     },
@@ -44040,7 +44040,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509208",
         "district_id": "357"
     },
@@ -44050,7 +44050,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Narayanpet",
         "pin_code": "509210",
         "district_id": "357"
     },
@@ -44070,7 +44070,7 @@
         "district_id": "269"
     },
     {
-        "name": "NA",
+        "name": "Devarkadra",
         "pin_code": "509219",
         "district_id": "357"
     },
@@ -44095,7 +44095,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509311",
         "district_id": "357"
     },
@@ -44130,37 +44130,37 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509334",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509335",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509336",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509337",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Kodangal",
         "pin_code": "509338",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509339",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509340",
         "district_id": "357"
     },
@@ -44170,27 +44170,27 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509350",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509351",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509352",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509353",
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Jadcherla",
         "pin_code": "509357",
         "district_id": "357"
     },
@@ -44205,7 +44205,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509371",
         "district_id": "357"
     },
@@ -44220,7 +44220,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509380",
         "district_id": "357"
     },
@@ -44230,7 +44230,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509382",
         "district_id": "357"
     },
@@ -44250,7 +44250,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509407",
         "district_id": "357"
     },
@@ -44260,7 +44260,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509409",
         "district_id": "357"
     },
@@ -44270,7 +44270,7 @@
         "district_id": "357"
     },
     {
-        "name": "NA",
+        "name": "Hyderabad",
         "pin_code": "509411",
         "district_id": "357"
     },
@@ -45090,7 +45090,7 @@
         "district_id": "124"
     },
     {
-        "name": "NA",
+        "name": "Proddatur",
         "pin_code": "516431",
         "district_id": "124"
     },
@@ -45100,7 +45100,7 @@
         "district_id": "124"
     },
     {
-        "name": "NA",
+        "name": "Jammalmadugu",
         "pin_code": "516433",
         "district_id": "124"
     },
@@ -45780,7 +45780,7 @@
         "district_id": "333"
     },
     {
-        "name": "NA",
+        "name": "Veldurthi",
         "pin_code": "518217",
         "district_id": "333"
     },
@@ -45790,7 +45790,7 @@
         "district_id": "333"
     },
     {
-        "name": "NA",
+        "name": "Peapally",
         "pin_code": "518220",
         "district_id": "333"
     },
@@ -45830,7 +45830,7 @@
         "district_id": "333"
     },
     {
-        "name": "NA",
+        "name": "Adoni",
         "pin_code": "518323",
         "district_id": "333"
     },
@@ -45840,7 +45840,7 @@
         "district_id": "333"
     },
     {
-        "name": "NA",
+        "name": "Kurnool",
         "pin_code": "518343",
         "district_id": "333"
     },
@@ -45920,7 +45920,7 @@
         "district_id": "333"
     },
     {
-        "name": "NA",
+        "name": "Kurnool",
         "pin_code": "518411",
         "district_id": "333"
     },
@@ -45960,7 +45960,7 @@
         "district_id": "333"
     },
     {
-        "name": "NA",
+        "name": "Kodumur",
         "pin_code": "518464",
         "district_id": "333"
     },
@@ -46755,7 +46755,7 @@
         "district_id": "212"
     },
     {
-        "name": "NA",
+        "name": "Tenali",
         "pin_code": "522201",
         "district_id": "212"
     },
@@ -47320,7 +47320,7 @@
         "district_id": "458"
     },
     {
-        "name": "NA",
+        "name": "Chirala",
         "pin_code": "523171",
         "district_id": "458"
     },
@@ -47510,7 +47510,7 @@
         "district_id": "458"
     },
     {
-        "name": "NA",
+        "name": "Vijayawada",
         "pin_code": "523272",
         "district_id": "458"
     },
@@ -47525,7 +47525,7 @@
         "district_id": "458"
     },
     {
-        "name": "NA",
+        "name": "Kandukur",
         "pin_code": "523279",
         "district_id": "458"
     },
@@ -48275,7 +48275,7 @@
         "district_id": "609"
     },
     {
-        "name": "NA",
+        "name": "Anandapuram",
         "pin_code": "530052",
         "district_id": "609"
     },
@@ -48930,12 +48930,12 @@
         "district_id": "167"
     },
     {
-        "name": "NA",
+        "name": "Rajahmundry Rural",
         "pin_code": "533124",
         "district_id": "167"
     },
     {
-        "name": "NA",
+        "name": "Kadiyam",
         "pin_code": "533125",
         "district_id": "167"
     },
@@ -49225,7 +49225,7 @@
         "district_id": "167"
     },
     {
-        "name": "NA",
+        "name": "Rajanagaram",
         "pin_code": "533296",
         "district_id": "167"
     },
@@ -49500,7 +49500,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Penumantra (mdl)",
         "pin_code": "534122",
         "district_id": "618"
     },
@@ -49510,12 +49510,12 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Penumantra (mdl)",
         "pin_code": "534124",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Vijayawada",
         "pin_code": "534126",
         "district_id": "618"
     },
@@ -49555,7 +49555,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Palakoderu Mandalam",
         "pin_code": "534186",
         "district_id": "618"
     },
@@ -49580,7 +49580,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Undi (mdl)",
         "pin_code": "534199",
         "district_id": "618"
     },
@@ -49590,37 +49590,37 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Bhimavaram",
         "pin_code": "534202",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Kalla (mdl)",
         "pin_code": "534204",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Kalla (mdl)",
         "pin_code": "534206",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Bhimavaram(mdl)",
         "pin_code": "534207",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Bhimavaram",
         "pin_code": "534208",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Palakoderu (mdl)",
         "pin_code": "534209",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Palakoderu (mdl)",
         "pin_code": "534210",
         "district_id": "618"
     },
@@ -49635,12 +49635,12 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Vundrajavaram (mdl)",
         "pin_code": "534216",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Iragavaram (mdl)",
         "pin_code": "534217",
         "district_id": "618"
     },
@@ -49650,7 +49650,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Velpur (mdl)",
         "pin_code": "534222",
         "district_id": "618"
     },
@@ -49660,7 +49660,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "U.varam(mdl)",
         "pin_code": "534227",
         "district_id": "618"
     },
@@ -49670,57 +49670,57 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Akividu (mdl)",
         "pin_code": "534235",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Kalla (mdl)",
         "pin_code": "534236",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Kalla (mdl)",
         "pin_code": "534237",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Penumantra (mdl)",
         "pin_code": "534238",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Bhimavaram (mdl)",
         "pin_code": "534239",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Viravasaram(mdl)",
         "pin_code": "534240",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Palakoderu (mdl)",
         "pin_code": "534243",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Palakoderu(mdl)",
         "pin_code": "534244",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Viravasaram (mdl)",
         "pin_code": "534245",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Viravasaram (mdl)",
         "pin_code": "534247",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Viravasaram(mdl)",
         "pin_code": "534250",
         "district_id": "618"
     },
@@ -49735,7 +49735,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Ellamanchili (mdl)",
         "pin_code": "534266",
         "district_id": "618"
     },
@@ -49745,27 +49745,27 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Ellamanchili (mdl)",
         "pin_code": "534268",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Atchanta (mdl)",
         "pin_code": "534269",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Narsapur (mdl)",
         "pin_code": "534275",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Narsapur (mdl)",
         "pin_code": "534280",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Mogalturu(mdl)",
         "pin_code": "534281",
         "district_id": "618"
     },
@@ -49815,27 +49815,27 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Penugonda (mdl)",
         "pin_code": "534320",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Penugonda (mdl)",
         "pin_code": "534324",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Penugonda (mdl)",
         "pin_code": "534326",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Poduru (mdl)",
         "pin_code": "534327",
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Peravali (mdl)",
         "pin_code": "534328",
         "district_id": "618"
     },
@@ -49845,7 +49845,7 @@
         "district_id": "618"
     },
     {
-        "name": "NA",
+        "name": "Peravali (mdl)",
         "pin_code": "534330",
         "district_id": "618"
     },
@@ -50170,7 +50170,7 @@
         "district_id": "610"
     },
     {
-        "name": "NA",
+        "name": "Parvatipuram",
         "pin_code": "535502",
         "district_id": "610"
     },
@@ -50410,7 +50410,7 @@
         "district_id": "44"
     },
     {
-        "name": "NA",
+        "name": "Bangalore North",
         "pin_code": "560025",
         "district_id": "44"
     },
@@ -50810,7 +50810,7 @@
         "district_id": "44"
     },
     {
-        "name": "NA",
+        "name": "Bangalore HQ",
         "pin_code": "560300",
         "district_id": "44"
     },
@@ -50885,7 +50885,7 @@
         "district_id": "114"
     },
     {
-        "name": "NA",
+        "name": "Gauribidanur",
         "pin_code": "561228",
         "district_id": "316"
     },
@@ -51380,12 +51380,12 @@
         "district_id": "394"
     },
     {
-        "name": "NA",
+        "name": "South Karnataka",
         "pin_code": "570030",
         "district_id": "394"
     },
     {
-        "name": "NA",
+        "name": "South Karnataka",
         "pin_code": "570031",
         "district_id": "394"
     },
@@ -53920,7 +53920,7 @@
         "district_id": "115"
     },
     {
-        "name": "NA",
+        "name": "Davanagere",
         "pin_code": "577512",
         "district_id": "137"
     },
@@ -53950,7 +53950,7 @@
         "district_id": "115"
     },
     {
-        "name": "NA",
+        "name": "Davanagere",
         "pin_code": "577518",
         "district_id": "115"
     },
@@ -53970,7 +53970,7 @@
         "district_id": "115"
     },
     {
-        "name": "NA",
+        "name": "Challakere",
         "pin_code": "577522",
         "district_id": "115"
     },
@@ -54000,7 +54000,7 @@
         "district_id": "115"
     },
     {
-        "name": "NA",
+        "name": "Jagalur",
         "pin_code": "577528",
         "district_id": "137"
     },
@@ -54030,7 +54030,7 @@
         "district_id": "115"
     },
     {
-        "name": "NA",
+        "name": "Davanagere",
         "pin_code": "577534",
         "district_id": "137"
     },
@@ -54145,7 +54145,7 @@
         "district_id": "137"
     },
     {
-        "name": "NA",
+        "name": "Holalkere",
         "pin_code": "577557",
         "district_id": "115"
     },
@@ -54320,7 +54320,7 @@
         "district_id": "225"
     },
     {
-        "name": "NA",
+        "name": "Dharwad",
         "pin_code": "581103",
         "district_id": "148"
     },
@@ -54470,7 +54470,7 @@
         "district_id": "225"
     },
     {
-        "name": "NA",
+        "name": "North Karnataka",
         "pin_code": "581198",
         "district_id": "225"
     },
@@ -54835,7 +54835,7 @@
         "district_id": "599"
     },
     {
-        "name": "NA",
+        "name": "Honavar",
         "pin_code": "581384",
         "district_id": "599"
     },
@@ -54915,7 +54915,7 @@
         "district_id": "189"
     },
     {
-        "name": "NA",
+        "name": "Ron",
         "pin_code": "582111",
         "district_id": "189"
     },
@@ -55025,7 +55025,7 @@
         "district_id": "65"
     },
     {
-        "name": "NA",
+        "name": "Bellary",
         "pin_code": "583102",
         "district_id": "65"
     },
@@ -55145,7 +55145,7 @@
         "district_id": "65"
     },
     {
-        "name": "NA",
+        "name": "Harapanahalli",
         "pin_code": "583131",
         "district_id": "137"
     },
@@ -55300,7 +55300,7 @@
         "district_id": "321"
     },
     {
-        "name": "NA",
+        "name": "North Karnataka",
         "pin_code": "583233",
         "district_id": "189"
     },
@@ -56190,7 +56190,7 @@
         "district_id": "32"
     },
     {
-        "name": "NA",
+        "name": "Bagalkot",
         "pin_code": "587103",
         "district_id": "32"
     },
@@ -56535,7 +56535,7 @@
         "district_id": "64"
     },
     {
-        "name": "NA",
+        "name": "Ramdurg",
         "pin_code": "591123",
         "district_id": "64"
     },
@@ -56605,7 +56605,7 @@
         "district_id": "64"
     },
     {
-        "name": "NA",
+        "name": "North Karnataka",
         "pin_code": "591173",
         "district_id": "64"
     },
@@ -56925,7 +56925,7 @@
         "district_id": "64"
     },
     {
-        "name": "NA",
+        "name": "Chennai",
         "pin_code": "600001",
         "district_id": "110"
     },
@@ -56960,7 +56960,7 @@
         "district_id": "110"
     },
     {
-        "name": "NA",
+        "name": "Egmore Nungambakka",
         "pin_code": "600008",
         "district_id": "110"
     },
@@ -57125,12 +57125,12 @@
         "district_id": "110"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "600043",
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Sriperumbudur",
         "pin_code": "600044",
         "district_id": "275"
     },
@@ -57230,7 +57230,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "600064",
         "district_id": "275"
     },
@@ -57260,7 +57260,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "600070",
         "district_id": "275"
     },
@@ -57275,7 +57275,7 @@
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Tambaram",
         "pin_code": "600073",
         "district_id": "275"
     },
@@ -57285,7 +57285,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "600075",
         "district_id": "275"
     },
@@ -57335,12 +57335,12 @@
         "district_id": "110"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "600087",
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Saidapet",
         "pin_code": "600088",
         "district_id": "275"
     },
@@ -57385,7 +57385,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "600097",
         "district_id": "275"
     },
@@ -57455,7 +57455,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Tambaram",
         "pin_code": "600117",
         "district_id": "275"
     },
@@ -57595,7 +57595,7 @@
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Poonamallee",
         "pin_code": "602024",
         "district_id": "581"
     },
@@ -57740,12 +57740,12 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "603211",
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Cheyyur",
         "pin_code": "603301",
         "district_id": "275"
     },
@@ -57790,7 +57790,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Madurantakam",
         "pin_code": "603310",
         "district_id": "275"
     },
@@ -57800,7 +57800,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Cheyyur",
         "pin_code": "603312",
         "district_id": "275"
     },
@@ -57810,7 +57810,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Uttiramerur",
         "pin_code": "603314",
         "district_id": "275"
     },
@@ -58020,7 +58020,7 @@
         "district_id": "582"
     },
     {
-        "name": "NA",
+        "name": "Vandavasi",
         "pin_code": "604503",
         "district_id": "582"
     },
@@ -58475,7 +58475,7 @@
         "district_id": "582"
     },
     {
-        "name": "NA",
+        "name": "Chengam",
         "pin_code": "606704",
         "district_id": "582"
     },
@@ -58590,7 +58590,7 @@
         "district_id": "582"
     },
     {
-        "name": "NA",
+        "name": "Polur",
         "pin_code": "606903",
         "district_id": "582"
     },
@@ -58760,7 +58760,7 @@
         "district_id": "455"
     },
     {
-        "name": "NA",
+        "name": "Pondicherry",
         "pin_code": "607403",
         "district_id": "455"
     },
@@ -58795,7 +58795,7 @@
         "district_id": "123"
     },
     {
-        "name": "NA",
+        "name": "Chidambaram North",
         "pin_code": "608001",
         "district_id": "123"
     },
@@ -58825,7 +58825,7 @@
         "district_id": "123"
     },
     {
-        "name": "NA",
+        "name": "Chidambaram",
         "pin_code": "608303",
         "district_id": "123"
     },
@@ -58855,7 +58855,7 @@
         "district_id": "123"
     },
     {
-        "name": "NA",
+        "name": "Chidambaram",
         "pin_code": "608502",
         "district_id": "123"
     },
@@ -59145,7 +59145,7 @@
         "district_id": "285"
     },
     {
-        "name": "NA",
+        "name": "Tiruchy",
         "pin_code": "609602",
         "district_id": "285"
     },
@@ -59160,7 +59160,7 @@
         "district_id": "285"
     },
     {
-        "name": "NA",
+        "name": "Tiruchy",
         "pin_code": "609605",
         "district_id": "285"
     },
@@ -59280,7 +59280,7 @@
         "district_id": "583"
     },
     {
-        "name": "NA",
+        "name": "Tiruvarur",
         "pin_code": "610103",
         "district_id": "583"
     },
@@ -59385,7 +59385,7 @@
         "district_id": "398"
     },
     {
-        "name": "NA",
+        "name": "Nagapattinam",
         "pin_code": "611106",
         "district_id": "398"
     },
@@ -59805,7 +59805,7 @@
         "district_id": "570"
     },
     {
-        "name": "NA",
+        "name": "Mannargudi",
         "pin_code": "614016",
         "district_id": "583"
     },
@@ -60785,7 +60785,7 @@
         "district_id": "25"
     },
     {
-        "name": "NA",
+        "name": "Sendurai",
         "pin_code": "621730",
         "district_id": "25"
     },
@@ -60830,7 +60830,7 @@
         "district_id": "460"
     },
     {
-        "name": "NA",
+        "name": "Pudukkottai",
         "pin_code": "622002",
         "district_id": "460"
     },
@@ -61070,7 +61070,7 @@
         "district_id": "478"
     },
     {
-        "name": "NA",
+        "name": "Ramanathapuram",
         "pin_code": "623503",
         "district_id": "478"
     },
@@ -61340,7 +61340,7 @@
         "district_id": "157"
     },
     {
-        "name": "NA",
+        "name": "Dindigul",
         "pin_code": "624206",
         "district_id": "157"
     },
@@ -61390,7 +61390,7 @@
         "district_id": "157"
     },
     {
-        "name": "NA",
+        "name": "Dindigul",
         "pin_code": "624302",
         "district_id": "157"
     },
@@ -61440,7 +61440,7 @@
         "district_id": "157"
     },
     {
-        "name": "NA",
+        "name": "Dindigul",
         "pin_code": "624610",
         "district_id": "157"
     },
@@ -61545,7 +61545,7 @@
         "district_id": "157"
     },
     {
-        "name": "NA",
+        "name": "Dindigul",
         "pin_code": "624710",
         "district_id": "157"
     },
@@ -61600,7 +61600,7 @@
         "district_id": "356"
     },
     {
-        "name": "NA",
+        "name": "Madurai North",
         "pin_code": "625007",
         "district_id": "356"
     },
@@ -62025,7 +62025,7 @@
         "district_id": "608"
     },
     {
-        "name": "NA",
+        "name": "Aruppukkottai",
         "pin_code": "626004",
         "district_id": "608"
     },
@@ -62715,7 +62715,7 @@
         "district_id": "580"
     },
     {
-        "name": "NA",
+        "name": "Sankarankovil",
         "pin_code": "627756",
         "district_id": "580"
     },
@@ -62885,7 +62885,7 @@
         "district_id": "580"
     },
     {
-        "name": "NA",
+        "name": "Thoothukkudi",
         "pin_code": "628001",
         "district_id": "587"
     },
@@ -62905,7 +62905,7 @@
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Tuticorin",
         "pin_code": "628005",
         "district_id": "587"
     },
@@ -63125,12 +63125,12 @@
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Satankulam",
         "pin_code": "628613",
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Tiruchendur",
         "pin_code": "628614",
         "district_id": "587"
     },
@@ -63235,7 +63235,7 @@
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Sankarankovil",
         "pin_code": "628721",
         "district_id": "587"
     },
@@ -63250,7 +63250,7 @@
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Madurai",
         "pin_code": "628752",
         "district_id": "587"
     },
@@ -63260,7 +63260,7 @@
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Srivaikuntam",
         "pin_code": "628801",
         "district_id": "587"
     },
@@ -63310,7 +63310,7 @@
         "district_id": "587"
     },
     {
-        "name": "NA",
+        "name": "Vilathikulam ( Kol)",
         "pin_code": "628907",
         "district_id": "587"
     },
@@ -63465,7 +63465,7 @@
         "district_id": "283"
     },
     {
-        "name": "NA",
+        "name": "Vilavancode",
         "pin_code": "629173",
         "district_id": "283"
     },
@@ -63555,7 +63555,7 @@
         "district_id": "283"
     },
     {
-        "name": "NA",
+        "name": "Agastheeswaram",
         "pin_code": "629402",
         "district_id": "283"
     },
@@ -64050,17 +64050,17 @@
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Tiruttani",
         "pin_code": "631206",
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Pallipat",
         "pin_code": "631207",
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Pallipat",
         "pin_code": "631208",
         "district_id": "581"
     },
@@ -64090,12 +64090,12 @@
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Tirutani",
         "pin_code": "631301",
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Pallipattu",
         "pin_code": "631302",
         "district_id": "581"
     },
@@ -64105,7 +64105,7 @@
         "district_id": "581"
     },
     {
-        "name": "NA",
+        "name": "Tiruttani",
         "pin_code": "631304",
         "district_id": "581"
     },
@@ -64135,7 +64135,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Sriperumbudur",
         "pin_code": "631553",
         "district_id": "275"
     },
@@ -64165,7 +64165,7 @@
         "district_id": "275"
     },
     {
-        "name": "NA",
+        "name": "Uttiramerur",
         "pin_code": "631606",
         "district_id": "275"
     },
@@ -64370,7 +64370,7 @@
         "district_id": "582"
     },
     {
-        "name": "NA",
+        "name": "Chennai Region",
         "pin_code": "632317",
         "district_id": "582"
     },
@@ -64575,7 +64575,7 @@
         "district_id": "329"
     },
     {
-        "name": "NA",
+        "name": "Hosur",
         "pin_code": "635105",
         "district_id": "329"
     },
@@ -64685,7 +64685,7 @@
         "district_id": "147"
     },
     {
-        "name": "NA",
+        "name": "Harur",
         "pin_code": "635202",
         "district_id": "147"
     },
@@ -65695,7 +65695,7 @@
         "district_id": "405"
     },
     {
-        "name": "NA",
+        "name": "Namakkal",
         "pin_code": "638007",
         "district_id": "176"
     },
@@ -65710,7 +65710,7 @@
         "district_id": "176"
     },
     {
-        "name": "NA",
+        "name": "Coimbatore",
         "pin_code": "638010",
         "district_id": "176"
     },
@@ -65955,7 +65955,7 @@
         "district_id": "176"
     },
     {
-        "name": "NA",
+        "name": "Sathyamangalam",
         "pin_code": "638460",
         "district_id": "176"
     },
@@ -66040,7 +66040,7 @@
         "district_id": "176"
     },
     {
-        "name": "NA",
+        "name": "Dharapuram",
         "pin_code": "638702",
         "district_id": "176"
     },
@@ -66050,7 +66050,7 @@
         "district_id": "176"
     },
     {
-        "name": "NA",
+        "name": "Dharapuram",
         "pin_code": "638706",
         "district_id": "176"
     },
@@ -66635,7 +66635,7 @@
         "district_id": "121"
     },
     {
-        "name": "NA",
+        "name": "Avanashi",
         "pin_code": "641654",
         "district_id": "121"
     },
@@ -66670,7 +66670,7 @@
         "district_id": "121"
     },
     {
-        "name": "NA",
+        "name": "Tiruppur",
         "pin_code": "641665",
         "district_id": "121"
     },
@@ -66695,7 +66695,7 @@
         "district_id": "121"
     },
     {
-        "name": "NA",
+        "name": "Coimbatore",
         "pin_code": "641670",
         "district_id": "121"
     },
@@ -67575,7 +67575,7 @@
         "district_id": "280"
     },
     {
-        "name": "NA",
+        "name": "Thalassery",
         "pin_code": "670672",
         "district_id": "280"
     },
@@ -67825,7 +67825,7 @@
         "district_id": "327"
     },
     {
-        "name": "NA",
+        "name": "Kozhikode",
         "pin_code": "673004",
         "district_id": "327"
     },
@@ -68030,12 +68030,12 @@
         "district_id": "280"
     },
     {
-        "name": "NA",
+        "name": "Calicut",
         "pin_code": "673312",
         "district_id": "280"
     },
     {
-        "name": "NA",
+        "name": "Calicut",
         "pin_code": "673313",
         "district_id": "280"
     },
@@ -68420,7 +68420,7 @@
         "district_id": "365"
     },
     {
-        "name": "NA",
+        "name": "Calicut",
         "pin_code": "676104",
         "district_id": "365"
     },
@@ -69370,7 +69370,7 @@
         "district_id": "435"
     },
     {
-        "name": "NA",
+        "name": "Ottappalam",
         "pin_code": "679513",
         "district_id": "435"
     },
@@ -69580,22 +69580,22 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680004",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Thrissur",
         "pin_code": "680005",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680006",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680007",
         "district_id": "575"
     },
@@ -69610,7 +69610,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Thrissur",
         "pin_code": "680010",
         "district_id": "575"
     },
@@ -69620,7 +69620,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Thrissur",
         "pin_code": "680012",
         "district_id": "575"
     },
@@ -69650,12 +69650,12 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680026",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680027",
         "district_id": "575"
     },
@@ -69665,7 +69665,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680101",
         "district_id": "575"
     },
@@ -69675,12 +69675,12 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680103",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680104",
         "district_id": "575"
     },
@@ -69730,7 +69730,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Mukundapuram",
         "pin_code": "680306",
         "district_id": "575"
     },
@@ -69780,7 +69780,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680503",
         "district_id": "575"
     },
@@ -69790,7 +69790,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680505",
         "district_id": "575"
     },
@@ -69800,7 +69800,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680507",
         "district_id": "575"
     },
@@ -69845,12 +69845,12 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680516",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Thalapilly",
         "pin_code": "680517",
         "district_id": "575"
     },
@@ -69870,12 +69870,12 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680521",
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680522",
         "district_id": "575"
     },
@@ -70015,7 +70015,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Talappilly",
         "pin_code": "680585",
         "district_id": "575"
     },
@@ -70075,7 +70075,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680611",
         "district_id": "575"
     },
@@ -70110,7 +70110,7 @@
         "district_id": "575"
     },
     {
-        "name": "NA",
+        "name": "Kochi",
         "pin_code": "680618",
         "district_id": "575"
     },
@@ -74655,7 +74655,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700084",
         "district_id": "547"
     },
@@ -74700,7 +74700,7 @@
         "district_id": "319"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700093",
         "district_id": "547"
     },
@@ -74715,7 +74715,7 @@
         "district_id": "319"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700096",
         "district_id": "547"
     },
@@ -74730,7 +74730,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Kolkata",
         "pin_code": "700099",
         "district_id": "319"
     },
@@ -74750,7 +74750,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700103",
         "district_id": "547"
     },
@@ -74795,12 +74795,12 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700112",
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700113",
         "district_id": "422"
     },
@@ -74840,7 +74840,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700121",
         "district_id": "422"
     },
@@ -74850,7 +74850,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700123",
         "district_id": "422"
     },
@@ -74930,27 +74930,27 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700139",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Bishnupur - I",
         "pin_code": "700140",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Thakurpukur Mahestola",
         "pin_code": "700141",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700142",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700143",
         "district_id": "547"
     },
@@ -74965,47 +74965,47 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700146",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700147",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700148",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700149",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Sonarpur",
         "pin_code": "700150",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700151",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700152",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700153",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700154",
         "district_id": "547"
     },
@@ -75025,7 +75025,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700158",
         "district_id": "422"
     },
@@ -75035,7 +75035,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "700160",
         "district_id": "422"
     },
@@ -75535,7 +75535,7 @@
         "district_id": "229"
     },
     {
-        "name": "NA",
+        "name": "Dasghara",
         "pin_code": "712402",
         "district_id": "229"
     },
@@ -75620,7 +75620,7 @@
         "district_id": "229"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "712419",
         "district_id": "229"
     },
@@ -75790,7 +75790,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Burdwan - II",
         "pin_code": "713124",
         "district_id": "52"
     },
@@ -75805,7 +75805,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Gushkara",
         "pin_code": "713127",
         "district_id": "52"
     },
@@ -75835,7 +75835,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Burdwan - II",
         "pin_code": "713141",
         "district_id": "52"
     },
@@ -75895,12 +75895,12 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Gushkara",
         "pin_code": "713153",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713154",
         "district_id": "52"
     },
@@ -75910,32 +75910,32 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713156",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713157",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713158",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713160",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713162",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713165",
         "district_id": "52"
     },
@@ -75945,7 +75945,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713167",
         "district_id": "52"
     },
@@ -75960,7 +75960,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713170",
         "district_id": "52"
     },
@@ -75970,12 +75970,12 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713172",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713173",
         "district_id": "52"
     },
@@ -76015,7 +76015,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Durgapur Mc",
         "pin_code": "713208",
         "district_id": "52"
     },
@@ -76335,22 +76335,22 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713386",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Memari",
         "pin_code": "713401",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713402",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "Burdwan",
         "pin_code": "713403",
         "district_id": "52"
     },
@@ -76385,7 +76385,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713419",
         "district_id": "52"
     },
@@ -76415,7 +76415,7 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713425",
         "district_id": "47"
     },
@@ -76440,27 +76440,27 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713430",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713432",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713433",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713434",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713501",
         "district_id": "52"
     },
@@ -76490,12 +76490,12 @@
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713516",
         "district_id": "52"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713517",
         "district_id": "47"
     },
@@ -76505,7 +76505,7 @@
         "district_id": "47"
     },
     {
-        "name": "NA",
+        "name": "South Bengal",
         "pin_code": "713520",
         "district_id": "52"
     },
@@ -77685,12 +77685,12 @@
         "district_id": "85"
     },
     {
-        "name": "NA",
+        "name": "Birbhum",
         "pin_code": "731133",
         "district_id": "85"
     },
     {
-        "name": "NA",
+        "name": "Birbhum",
         "pin_code": "731201",
         "district_id": "85"
     },
@@ -78740,7 +78740,7 @@
         "district_id": "122"
     },
     {
-        "name": "NA",
+        "name": "Dinhata",
         "pin_code": "736145",
         "district_id": "122"
     },
@@ -79040,7 +79040,7 @@
         "district_id": "396"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "741139",
         "district_id": "396"
     },
@@ -79085,7 +79085,7 @@
         "district_id": "396"
     },
     {
-        "name": "NA",
+        "name": "Kaliganj",
         "pin_code": "741157",
         "district_id": "396"
     },
@@ -79095,7 +79095,7 @@
         "district_id": "396"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "741159",
         "district_id": "396"
     },
@@ -79180,7 +79180,7 @@
         "district_id": "396"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "741235",
         "district_id": "396"
     },
@@ -79245,7 +79245,7 @@
         "district_id": "396"
     },
     {
-        "name": "NA",
+        "name": "Ranaghat - II",
         "pin_code": "741256",
         "district_id": "396"
     },
@@ -79310,7 +79310,7 @@
         "district_id": "396"
     },
     {
-        "name": "NA",
+        "name": "Hanskhali",
         "pin_code": "741502",
         "district_id": "396"
     },
@@ -79510,7 +79510,7 @@
         "district_id": "391"
     },
     {
-        "name": "NA",
+        "name": "Beldanga - II",
         "pin_code": "742189",
         "district_id": "391"
     },
@@ -79695,7 +79695,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "743130",
         "district_id": "422"
     },
@@ -79715,7 +79715,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Calcutta",
         "pin_code": "743136",
         "district_id": "422"
     },
@@ -79730,7 +79730,7 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Barrackpur - I",
         "pin_code": "743165",
         "district_id": "422"
     },
@@ -79895,17 +79895,17 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Basanti",
         "pin_code": "743312",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Budge Budge - II",
         "pin_code": "743318",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Canning - I",
         "pin_code": "743329",
         "district_id": "547"
     },
@@ -79920,12 +79920,12 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Magrahat - I",
         "pin_code": "743332",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Kulpi",
         "pin_code": "743336",
         "district_id": "547"
     },
@@ -79935,7 +79935,7 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Jaynagar - II",
         "pin_code": "743338",
         "district_id": "547"
     },
@@ -79945,12 +79945,12 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Kakdwip",
         "pin_code": "743347",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Kulpi",
         "pin_code": "743348",
         "district_id": "547"
     },
@@ -79960,7 +79960,7 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Kulpi",
         "pin_code": "743351",
         "district_id": "547"
     },
@@ -79980,7 +79980,7 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Namkhana",
         "pin_code": "743357",
         "district_id": "547"
     },
@@ -79995,22 +79995,22 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Gosaba",
         "pin_code": "743370",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Mathurapur - I",
         "pin_code": "743371",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Jaynagar - I",
         "pin_code": "743372",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Sagar",
         "pin_code": "743373",
         "district_id": "547"
     },
@@ -80020,27 +80020,27 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Magrahat - II",
         "pin_code": "743375",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Canning - I",
         "pin_code": "743376",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Bakrahat",
         "pin_code": "743377",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Gosaba",
         "pin_code": "743378",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Kultali",
         "pin_code": "743383",
         "district_id": "547"
     },
@@ -80160,12 +80160,12 @@
         "district_id": "422"
     },
     {
-        "name": "NA",
+        "name": "Bhangar - I",
         "pin_code": "743502",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Bishnupur - I",
         "pin_code": "743503",
         "district_id": "547"
     },
@@ -80180,22 +80180,22 @@
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Magrahat - II",
         "pin_code": "743609",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Baruipur",
         "pin_code": "743610",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Baruipur",
         "pin_code": "743611",
         "district_id": "547"
     },
     {
-        "name": "NA",
+        "name": "Baruipur",
         "pin_code": "743613",
         "district_id": "547"
     },
@@ -81035,7 +81035,7 @@
         "district_id": "125"
     },
     {
-        "name": "NA",
+        "name": "Athagarh",
         "pin_code": "754029",
         "district_id": "125"
     },
@@ -81135,7 +81135,7 @@
         "district_id": "125"
     },
     {
-        "name": "NA",
+        "name": "Naugaonhat",
         "pin_code": "754113",
         "district_id": "125"
     },
@@ -83550,7 +83550,7 @@
         "district_id": "322"
     },
     {
-        "name": "NA",
+        "name": "Berhampur",
         "pin_code": "764006",
         "district_id": "322"
     },
@@ -84445,7 +84445,7 @@
         "district_id": "54"
     },
     {
-        "name": "NA",
+        "name": "Sambalpur",
         "pin_code": "768118",
         "district_id": "502"
     },
@@ -85055,7 +85055,7 @@
         "district_id": "274"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "781040",
         "district_id": "274"
     },
@@ -85205,7 +85205,7 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Barkhetri",
         "pin_code": "781305",
         "district_id": "57"
     },
@@ -85215,12 +85215,12 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Sarthebari",
         "pin_code": "781307",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Mandia",
         "pin_code": "781308",
         "district_id": "57"
     },
@@ -85235,67 +85235,67 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Nagaon",
         "pin_code": "781311",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Rampur",
         "pin_code": "781312",
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Simlaguri",
         "pin_code": "781313",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Santinagar",
         "pin_code": "781314",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Barpetaroad",
         "pin_code": "781315",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Howly",
         "pin_code": "781316",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Sorbhog",
         "pin_code": "781317",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Sarupeta",
         "pin_code": "781318",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Kalgachia",
         "pin_code": "781319",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Mayanbari",
         "pin_code": "781321",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Pathsala",
         "pin_code": "781325",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Patacharkuchi",
         "pin_code": "781326",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Jalahghat",
         "pin_code": "781327",
         "district_id": "57"
     },
@@ -85305,12 +85305,12 @@
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Barkhetri",
         "pin_code": "781329",
         "district_id": "57"
     },
     {
-        "name": "NA",
+        "name": "Kokilabari",
         "pin_code": "781330",
         "district_id": "57"
     },
@@ -85335,7 +85335,7 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Barkhetri",
         "pin_code": "781338",
         "district_id": "403"
     },
@@ -85380,12 +85380,12 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Nizdhamdhama",
         "pin_code": "781349",
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Barkhetri",
         "pin_code": "781350",
         "district_id": "274"
     },
@@ -85435,12 +85435,12 @@
         "district_id": "274"
     },
     {
-        "name": "NA",
+        "name": "Bajali",
         "pin_code": "781367",
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Nagrijuli",
         "pin_code": "781368",
         "district_id": "403"
     },
@@ -85455,7 +85455,7 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Tihu",
         "pin_code": "781371",
         "district_id": "403"
     },
@@ -85470,7 +85470,7 @@
         "district_id": "403"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "781374",
         "district_id": "403"
     },
@@ -85485,7 +85485,7 @@
         "district_id": "274"
     },
     {
-        "name": "NA",
+        "name": "Thamna",
         "pin_code": "781377",
         "district_id": "403"
     },
@@ -85595,7 +85595,7 @@
         "district_id": "374"
     },
     {
-        "name": "NA",
+        "name": "Nagaon",
         "pin_code": "782128",
         "district_id": "397"
     },
@@ -85940,7 +85940,7 @@
         "district_id": "152"
     },
     {
-        "name": "NA",
+        "name": "Agomoni",
         "pin_code": "783335",
         "district_id": "152"
     },
@@ -86730,7 +86730,7 @@
         "district_id": "527"
     },
     {
-        "name": "NA",
+        "name": "Dibrugarh",
         "pin_code": "785669",
         "district_id": "527"
     },
@@ -86885,7 +86885,7 @@
         "district_id": "266"
     },
     {
-        "name": "NA",
+        "name": "Dibrugarh",
         "pin_code": "785705",
         "district_id": "527"
     },
@@ -87265,22 +87265,22 @@
         "district_id": "149"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788001",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788002",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Silchar",
         "pin_code": "788003",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788004",
         "district_id": "97"
     },
@@ -87295,112 +87295,112 @@
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788007",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788009",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788010",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788011",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788013",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788014",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788015",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788025",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788026",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788030",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788031",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788098",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788099",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788101",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788102",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788103",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788104",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788106",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788107",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788108",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788109",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788110",
         "district_id": "97"
     },
@@ -87410,317 +87410,317 @@
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Cleaver House",
         "pin_code": "788112",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788113",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788114",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788115",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788116",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788117",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788118",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788119",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788120",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788121",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788123",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788126",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788127",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788150",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788151",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788152",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788155",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788156",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788160",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788161",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788162",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788163",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788164",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788165",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788166",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788168",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788701",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788709",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Karimanj",
         "pin_code": "788710",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788711",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788712",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788713",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788719",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788720",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788722",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788723",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788724",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788725",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788726",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788727",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788728",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788733",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788734",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788735",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788736",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788737",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788781",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788801",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788802",
         "district_id": "216"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788803",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788804",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788805",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788806",
         "district_id": "290"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788815",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788816",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788817",
         "district_id": "97"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788818",
         "district_id": "424"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788819",
         "district_id": "424"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788820",
         "district_id": "424"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788830",
         "district_id": "424"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788831",
         "district_id": "424"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788832",
         "district_id": "424"
     },
     {
-        "name": "NA",
+        "name": "Guwahati HQ",
         "pin_code": "788931",
         "district_id": "424"
     },
@@ -88045,7 +88045,7 @@
         "district_id": "169"
     },
     {
-        "name": "NA",
+        "name": "Shillong HQ",
         "pin_code": "793018",
         "district_id": "169"
     },
@@ -88135,7 +88135,7 @@
         "district_id": "620"
     },
     {
-        "name": "NA",
+        "name": "Shillong HQ",
         "pin_code": "793115",
         "district_id": "620"
     },
@@ -88185,7 +88185,7 @@
         "district_id": "240"
     },
     {
-        "name": "NA",
+        "name": "Shillong HQ",
         "pin_code": "793210",
         "district_id": "240"
     },
@@ -88200,7 +88200,7 @@
         "district_id": "617"
     },
     {
-        "name": "NA",
+        "name": "Shillong HQ",
         "pin_code": "794003",
         "district_id": "617"
     },
@@ -88270,7 +88270,7 @@
         "district_id": "617"
     },
     {
-        "name": "NA",
+        "name": "Rongra",
         "pin_code": "794114",
         "district_id": "551"
     },
@@ -88985,7 +88985,7 @@
         "district_id": "631"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "799001",
         "district_id": "626"
     },
@@ -89000,12 +89000,12 @@
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "799004",
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Shillong HQ",
         "pin_code": "799005",
         "district_id": "626"
     },
@@ -89015,7 +89015,7 @@
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Sadar",
         "pin_code": "799007",
         "district_id": "626"
     },
@@ -89030,7 +89030,7 @@
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Shillong HQ",
         "pin_code": "799010",
         "district_id": "626"
     },
@@ -89040,7 +89040,7 @@
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Udaipur",
         "pin_code": "799013",
         "district_id": "554"
     },
@@ -89130,7 +89130,7 @@
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Jolaibari",
         "pin_code": "799141",
         "district_id": "554"
     },
@@ -89165,7 +89165,7 @@
         "district_id": "626"
     },
     {
-        "name": "NA",
+        "name": "Beloniya",
         "pin_code": "799155",
         "district_id": "554"
     },
@@ -89175,7 +89175,7 @@
         "district_id": "554"
     },
     {
-        "name": "NA",
+        "name": "Rajnagar",
         "pin_code": "799157",
         "district_id": "554"
     },
@@ -89250,7 +89250,7 @@
         "district_id": "430"
     },
     {
-        "name": "NA",
+        "name": "Panisagar",
         "pin_code": "799260",
         "district_id": "430"
     },
@@ -89500,7 +89500,7 @@
         "district_id": "448"
     },
     {
-        "name": "NA",
+        "name": "Patna HQ",
         "pin_code": "800028",
         "district_id": "448"
     },
@@ -89570,7 +89570,7 @@
         "district_id": "402"
     },
     {
-        "name": "NA",
+        "name": "Islampur",
         "pin_code": "801303",
         "district_id": "402"
     },
@@ -90075,7 +90075,7 @@
         "district_id": "448"
     },
     {
-        "name": "NA",
+        "name": "Patna City",
         "pin_code": "803202",
         "district_id": "448"
     },
@@ -90295,12 +90295,12 @@
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Akbarpur",
         "pin_code": "805102",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Patna HQ",
         "pin_code": "805103",
         "district_id": "413"
     },
@@ -90310,12 +90310,12 @@
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Patna HQ",
         "pin_code": "805105",
         "district_id": "402"
     },
     {
-        "name": "NA",
+        "name": "Kawakol",
         "pin_code": "805106",
         "district_id": "413"
     },
@@ -90330,7 +90330,7 @@
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Patna HQ",
         "pin_code": "805109",
         "district_id": "413"
     },
@@ -90340,7 +90340,7 @@
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Nawada",
         "pin_code": "805111",
         "district_id": "413"
     },
@@ -90355,12 +90355,12 @@
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Narhat",
         "pin_code": "805122",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Nardiganj",
         "pin_code": "805123",
         "district_id": "413"
     },
@@ -90370,37 +90370,37 @@
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Rajauli",
         "pin_code": "805125",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Akbarpur",
         "pin_code": "805126",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Sirdala",
         "pin_code": "805127",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Akbarpur",
         "pin_code": "805128",
         "district_id": "198"
     },
     {
-        "name": "NA",
+        "name": "Hisua",
         "pin_code": "805129",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Warisaliganj",
         "pin_code": "805130",
         "district_id": "413"
     },
     {
-        "name": "NA",
+        "name": "Patna HQ",
         "pin_code": "805131",
         "district_id": "198"
     },
@@ -90420,7 +90420,7 @@
         "district_id": "198"
     },
     {
-        "name": "NA",
+        "name": "Patna HQ",
         "pin_code": "805141",
         "district_id": "413"
     },
@@ -90755,7 +90755,7 @@
         "district_id": "161"
     },
     {
-        "name": "NA",
+        "name": "Ramgarah",
         "pin_code": "814102",
         "district_id": "161"
     },
@@ -90835,7 +90835,7 @@
         "district_id": "161"
     },
     {
-        "name": "NA",
+        "name": "Deoghar",
         "pin_code": "814142",
         "district_id": "140"
     },
@@ -90950,7 +90950,7 @@
         "district_id": "201"
     },
     {
-        "name": "NA",
+        "name": "Giridih",
         "pin_code": "815311",
         "district_id": "201"
     },
@@ -91005,7 +91005,7 @@
         "district_id": "140"
     },
     {
-        "name": "NA",
+        "name": "Jamtara",
         "pin_code": "815354",
         "district_id": "252"
     },
@@ -91020,7 +91020,7 @@
         "district_id": "140"
     },
     {
-        "name": "NA",
+        "name": "Kundahit",
         "pin_code": "815359",
         "district_id": "252"
     },
@@ -91630,7 +91630,7 @@
         "district_id": "201"
     },
     {
-        "name": "NA",
+        "name": "Pirtand",
         "pin_code": "825108",
         "district_id": "201"
     },
@@ -91640,7 +91640,7 @@
         "district_id": "313"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "825132",
         "district_id": "313"
     },
@@ -92170,7 +92170,7 @@
         "district_id": "87"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "828404",
         "district_id": "87"
     },
@@ -92190,7 +92190,7 @@
         "district_id": "479"
     },
     {
-        "name": "NA",
+        "name": "Bokaro",
         "pin_code": "829104",
         "district_id": "87"
     },
@@ -92215,7 +92215,7 @@
         "district_id": "479"
     },
     {
-        "name": "NA",
+        "name": "Ramgarh",
         "pin_code": "829109",
         "district_id": "479"
     },
@@ -92310,7 +92310,7 @@
         "district_id": "479"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "829131",
         "district_id": "479"
     },
@@ -92465,7 +92465,7 @@
         "district_id": "174"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "831013",
         "district_id": "625"
     },
@@ -92495,7 +92495,7 @@
         "district_id": "174"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "831019",
         "district_id": "174"
     },
@@ -92555,7 +92555,7 @@
         "district_id": "174"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "832111",
         "district_id": "174"
     },
@@ -92585,7 +92585,7 @@
         "district_id": "174"
     },
     {
-        "name": "NA",
+        "name": "East Singhbhum",
         "pin_code": "832401",
         "district_id": "514"
     },
@@ -92760,7 +92760,7 @@
         "district_id": "481"
     },
     {
-        "name": "NA",
+        "name": "Ranchi",
         "pin_code": "834011",
         "district_id": "481"
     },
@@ -92785,7 +92785,7 @@
         "district_id": "531"
     },
     {
-        "name": "NA",
+        "name": "Bero",
         "pin_code": "835202",
         "district_id": "481"
     },
@@ -93425,7 +93425,7 @@
         "district_id": "507"
     },
     {
-        "name": "NA",
+        "name": "Muzaffarpur",
         "pin_code": "841446",
         "district_id": "540"
     },
@@ -93480,7 +93480,7 @@
         "district_id": "540"
     },
     {
-        "name": "NA",
+        "name": "Muzaffarpur",
         "pin_code": "842001",
         "district_id": "393"
     },
@@ -93490,7 +93490,7 @@
         "district_id": "393"
     },
     {
-        "name": "NA",
+        "name": "Mushahari",
         "pin_code": "842003",
         "district_id": "393"
     },
@@ -93680,7 +93680,7 @@
         "district_id": "393"
     },
     {
-        "name": "NA",
+        "name": "Bairgania",
         "pin_code": "843313",
         "district_id": "537"
     },
@@ -94230,7 +94230,7 @@
         "district_id": "615"
     },
     {
-        "name": "NA",
+        "name": "Darbhanga",
         "pin_code": "846001",
         "district_id": "132"
     },
@@ -94240,12 +94240,12 @@
         "district_id": "132"
     },
     {
-        "name": "NA",
+        "name": "Darbhanga",
         "pin_code": "846003",
         "district_id": "132"
     },
     {
-        "name": "NA",
+        "name": "Darbhanga",
         "pin_code": "846004",
         "district_id": "132"
     },
@@ -94255,7 +94255,7 @@
         "district_id": "132"
     },
     {
-        "name": "NA",
+        "name": "Muzaffarpur",
         "pin_code": "846006",
         "district_id": "132"
     },
@@ -94265,7 +94265,7 @@
         "district_id": "132"
     },
     {
-        "name": "NA",
+        "name": "Muzaffarpur",
         "pin_code": "846008",
         "district_id": "132"
     },
@@ -94325,7 +94325,7 @@
         "district_id": "132"
     },
     {
-        "name": "NA",
+        "name": "Darbhanga",
         "pin_code": "847121",
         "district_id": "132"
     },
@@ -94980,7 +94980,7 @@
         "district_id": "354"
     },
     {
-        "name": "NA",
+        "name": "Saraigarh",
         "pin_code": "852105",
         "district_id": "560"
     },
@@ -95040,7 +95040,7 @@
         "district_id": "354"
     },
     {
-        "name": "NA",
+        "name": "Madhepura",
         "pin_code": "852121",
         "district_id": "354"
     },
@@ -95050,12 +95050,12 @@
         "district_id": "354"
     },
     {
-        "name": "NA",
+        "name": "Nauhatta",
         "pin_code": "852123",
         "district_id": "560"
     },
     {
-        "name": "NA",
+        "name": "Satar Kataiya",
         "pin_code": "852124",
         "district_id": "497"
     },
@@ -95070,7 +95070,7 @@
         "district_id": "497"
     },
     {
-        "name": "NA",
+        "name": "Simri Bakhtiarpur",
         "pin_code": "852127",
         "district_id": "497"
     },
@@ -95085,7 +95085,7 @@
         "district_id": "497"
     },
     {
-        "name": "NA",
+        "name": "Supaul",
         "pin_code": "852130",
         "district_id": "560"
     },
@@ -95250,7 +95250,7 @@
         "district_id": "295"
     },
     {
-        "name": "NA",
+        "name": "Muzaffarpur",
         "pin_code": "854112",
         "district_id": "295"
     },
@@ -95300,7 +95300,7 @@
         "district_id": "464"
     },
     {
-        "name": "NA",
+        "name": "Purnea",
         "pin_code": "854205",
         "district_id": "464"
     },
@@ -95440,7 +95440,7 @@
         "district_id": "560"
     },
     {
-        "name": "NA",
+        "name": "Basantpur",
         "pin_code": "854340",
         "district_id": "560"
     },
